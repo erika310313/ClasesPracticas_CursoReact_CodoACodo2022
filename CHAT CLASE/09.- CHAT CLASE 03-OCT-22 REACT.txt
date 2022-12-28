@@ -1,0 +1,183 @@
+Nicko Chamorro19:08
+yo use  x >= y ? x : y
+Miguel Caldiroli19:09
+en la constante
+Nicko Chamorro19:12
+bien
+Eliana Murialdo19:12
+excelente
+Miguel Caldiroli19:12
+sisi
+Nicko Chamorro19:13
+edad >= 18 ? "Allow" : "Not allow"
+Lean Medina19:14
+Genial
+Juan Manuel VALITUTTI19:15
+Buenas tardes. Perdón la tardanza. Yo empiezo hoy por cambio de comisión.
+Después me conectaré por wapp.
+Sí, gracias. Vi la última clase para tener idea por dónde van.
+Perfecto.
+Juan Manuel VALITUTTI19:16
+Gracias.
+Nicko Chamorro19:18
+use un ternario anidado y se achica un montón:
+console.log(`${status == 1 ? "Online" : status == 2 ? "Away" : "Offline"}`)
+Juan Manuel VALITUTTI19:22
+¿Los ejercicios están en el Drive?
+Cesar Morel19:22
+Ahi opté por un switch
+Juan Manuel VALITUTTI19:23
+Perfecto.
+Sí, repasaré.
+Lean Medina19:24
+En esos casos con usar "==" ya es suficiente, no? No es necesario que sea estrictamente igual
+Nicko Chamorro19:28
+sisi
+Lean Medina19:28
+Nice
+Lean Medina19:31
+Eso está bueno, que ya te ahorras de poner el true o false
+Feliciano Vitullo19:33
+sisi
+Nicko Chamorro19:33
+si
+Jorge Cancinos19:33
+pregunta tiene js el o excluyente?
+Lean Medina19:34
+if (numero - Math.floor(numero) == 0){
+  console.log(true)
+} else{
+  console.log(false)
+}
+Feliciano Vitullo19:34
+numero - mathfloor(numero) == 0
+Lean Medina19:35
+Resolví muchos con if :')
+Ana Alvarez19:35
+const esEntero = number => {console.log(Math.floor(number)-number==0)}
+Cesar Morel19:37
+No se si sirve como metodo
+Se me escapo esa linea jaja
+Juan Manuel VALITUTTI19:39
+Sí. Se entiende.
+Nicko Chamorro19:39
+el primer if se puede resumir en: (numero % 15  === 0)
+Cesar Morel19:41
+Lo que suelo hacer es escribir los asserts primero para no marearme despues
+Cesar Morel19:42
+Y para el refactor ya me quedan
+https://github.com/cesaremorel/cac-22809-desafio_04/blob/9fa2480c3a7bf3b23abd4a50b61099bad2faecdb/assets/js/ejercicios/ejerciciosJS2.js?plain=1#L153
+En ese habia un problema
+En la definición
+Nicko Chamorro19:48
+lo hice igual
+Lean Medina19:49
+lo hice parecido
+Cesar Morel19:49
+El problema por ejemplo
+Lean Medina19:49
+if (num1 == 0 || num2 == 0 || num3 == 0){
+  console.log("Error")
+} else{
+  if (num1 > num2 && num1 > num3 && num1 > 0){
+  console.log(`${num1} es mayor que los demás, y es positivo`)
+  } else if (num1 < 1 || num2 < 1 || num3 < 1){
+  console.log("Hay negativos")
+  } else if (num3 > num1 && num3 > num2){
+    console.log(num3+1)
+  } else{
+    console.log(false)
+  }
+}
+Cesar Morel19:50
+Se da con console.assert(operadoresLogicos(-1,2,0) === "Hay negativos", "operadoresLogicos_a13")
+Martin Andres19:50
+en la linea 164 te falta num
+Feliciano Vitullo19:50
+ahi hay a la vez cero y numero negativo
+Cesar Morel19:50
+En esa combinacion se da que hay un cero y tambien negativis
+Rebeca Beatriz Cruz19:52
+cuando entra en false?
+Lean Medina19:54
+Estuve lit dos días sin poder resolver ese  ejercicio
+Jorge Cancinos19:56
+para determinar si un numero es primo, tenemos que buscar los divisores, los divisores los podemos buscar de dos maneras, recorrer hasta la mitad del numero, o hasta la parte entera de la raiz del numero
+Ivan Pasciucco19:56
+hay un programa del curso con los temas que siguen?
+Jorge Cancinos19:57
+es decir que el for iteraria esas n veces, aunque no usaria un for sino un while, ya que con esa iteracion puedo salir del bucle apenas encuentre un divisor
+Lean Medina19:57
+Yo lo terminé resolviendo más fácil
+Porque no sabía como implementar el for para ese caso
+if (numero % 2 != 0){
+  console.log(true)
+} else {
+  console.log(false)
+}
+Cesar Morel19:58
+Yo puse un for, cortando con return
+Lean Medina19:58
+lo pensé así, porque si dividis un primo por 2 siempre va a sobrar uno
+Cesar Morel19:58
+https://github.com/cesaremorel/cac-22809-desafio_04/blob/9fa2480c3a7bf3b23abd4a50b61099bad2faecdb/assets/js/ejercicios/ejerciciosJS2.js?plain=1#L220
+Jorge Cancinos20:00
+pero el 15 por ejemplo rompe esa condicion, te va a dar true pero no es primo
+Feliciano Vitullo20:03
+i <= numero -1
+no...?
+Nicko Chamorro20:04
+es lo mismo que i < numero eso
+Feliciano Vitullo20:04
+ah jaja no lo vi
+Lean Medina20:04
+Por que seria así entonces? No termino de entender el proceso, perdón :’)
+Braian Arguello20:08
+profe y no se puede poner si el resto del numero es igual a numero es primo?
+Camila Maita20:08
+claro porque puede ser divisible por otros numeros
+Lean Medina20:08
+Perfecto, ahí va!
+Camila Maita20:09
+como llegar a la mitad??
+Marcelo Adrian Rearte Becerra20:12
+yo llegué hasta este
+Camila Maita20:16
+sisi
+Nicko Chamorro20:16
+si
+Jorge Cancinos20:16
+se puede hacer recursividad en js?
+Juan Manuel VALITUTTI20:16
+Este lo veo un poco más complejo....
+Practicar...
+Miguel Caldiroli20:19
+yo vendo insumos cualquier cosa paso presupuesto...
+Feliciano Vitullo20:19
+manda a discord la data jaja
+Pato20:19
+oye pero mira qie sopresa
+xD
+Mauro “mauu5” Florio20:19
+yo traigo productos de USA el que quiera
+Braian Arguello20:19
+aca tmb hacemos ploteos jaja
+Colegiales city jajaj
+Miguel Caldiroli20:20
+olvidate
+Nicko Chamorro20:20
+se nos va el aguinaldo aca
+Pato20:21
+si tengo calidad no me quejo XD
+Analía F20:22
+https://www.mercadolibre.com.ar/kit-de-teclado-y-mouse-inalambrico-logitech-mk345-espanol-latinoamerica-de-color-negro/p/MLA18610874
+Compré este... pero valía casi 1K $ menos...
+Compré el 14/09
+Juan Manuel VALITUTTI20:24
+No es menor o igual a 8?
+Miguel Caldiroli20:24
+despues te paso precio por privado gaby
+Juan Manuel VALITUTTI20:25
+Ok
+Juan Manuel VALITUTTI20:25
+Ok

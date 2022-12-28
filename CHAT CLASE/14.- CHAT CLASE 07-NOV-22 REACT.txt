@@ -1,0 +1,176 @@
+Facundo Orsi19:26
+no es por como est[a exportado en app
+Miguel Caldiroli19:26
+.js?
+Facundo Orsi19:26
+?
+Facundo Orsi19:29
+en el import ponele el app.js
+no lo toma por defecto como react
+Miguel Caldiroli19:29
+es lo q habia dicho...
+Facundo Orsi19:31
+perfecto
+Miguel Caldiroli19:31
+sisi
+Facundo Orsi19:31
+sisi
+Gabriel Munoz19:33
+https://adriandesimone.github.io/CAC2022-accesos-directos/
+Miguel Caldiroli19:33
+vamos a ver solo node o tambien express?
+barbaro
+Marcelo Adrian Rearte Becerra19:34
+base de datos SQL o Mongo vamos a ver?
+buenisimo gracias
+Marcelo Adrian Rearte Becerra19:37
+si
+Eliana Murialdo19:39
+si
+Miguel Caldiroli19:39
+si
+Camila Maita19:42
+ok sii
+Lean Medina19:42
+yes
+Miguel Caldiroli19:43
+sisi
+Nicko Chamorro19:43
+si
+Marcelo Adrian Rearte Becerra19:43
+si
+Vilma Ponce19:43
+si
+Diego Gonzalez19:43
+si
+Miguel Caldiroli19:45
+escucha
+si
+Nicko Chamorro19:46
+si
+Camila Maita19:46
+sisi
+Gabriel Munoz19:49
+nodemon
+Miguel Caldiroli19:50
+si
+Gabriel Munoz19:51
+GET
+POST
+Gabriel Munoz19:52
+PUT
+PATCH
+DELETE
+Gabriel Munoz19:53
+CRUD
+CREATE
+READ
+Marcelo Adrian Rearte Becerra19:54
+update
+Miguel Caldiroli19:54
+update
+Jose Muthuan19:54
+update
+Gabriel Munoz19:54
+UPDATE
+DELETE
+Miguel Caldiroli19:54
+de 10
+Camila Maita19:54
+sisi
+Vilma Ponce19:54
+sisi
+Lean Medina19:54
+siii
+Gabriel Munoz19:57
+npm install -g nodemon
+Miguel Caldiroli19:58
+si
+Camila Maita19:58
+bárbaroo
+Nicko Chamorro19:58
+sisi
+Eliana Murialdo19:58
+si
+Camila Maita20:06
+ah joyaa
+Marcelo Adrian Rearte Becerra20:07
+es como un enrutador? parece el modelo mvc
+bien
+Miguel Caldiroli20:08
+siempre con rutas, mas adelante se enlaza una carpeta con otra y con otra xD
+Eliana Murialdo20:09
+bien
+Miguel Caldiroli20:09
+bien bien
+Facundo Orsi20:09
+perfecto todo
+Mateo Salas20:09
+bien
+Miguel Caldiroli20:11
+joya
+Miguel Caldiroli20:12
+si
+Nicko Chamorro20:13
+si
+Miguel Caldiroli20:15
+vamos!
+Camila Maita20:15
+daleee
+Nicko Chamorro20:15
+dale
+Marcelo Adrian Rearte Becerra20:15
+dale
+Miguel Caldiroli20:15
+esta re pesado!
+Nicko Chamorro20:16
+bien
+Camila Maita20:17
+sisi
+Marcelo Adrian Rearte Becerra20:17
+npm ini -y
+Walter Falcone20:17
+npm init -y
+Nicko Chamorro20:17
+npm init -y
+Miguel Caldiroli20:19
+CORS
+Gabriel Munoz20:20
+npm i cors express mysql2 sequelize
+Eliana Murialdo20:20
+joya
+Miguel Caldiroli20:22
+y devDependencias son las que no se van a subir al servidor no?
+
+Miguel Caldiroli20:24
+si
+
+Eliana Murialdo20:28
+sisi
+Nicko Chamorro20:28
+joya
+Miguel Caldiroli20:29
+como diria el meme: q lindo se esta poniendo esto!
+RA R20:29
+si, se entendió
+
+Eliana Murialdo20:31
+el miercoles
+Walter Falcone20:31
+Saludos !
+Analía F20:31
+Muchas Gracias!!!
+Miguel Caldiroli20:31
+de 10, gracias profe nos vemos!!
+Facundo Orsi20:31
+nos vemos el miercoles!
+Eliana Murialdo20:31
+saludos!!!
+Marcelo Adrian Rearte Becerra20:31
+chauuuuu
+Cristina Kyselka20:31
+hasta el miercoles profe
+Nicko Chamorro20:31
+gracias hasta el miercoles
+Lean Medina20:31
+Buenisimooo, saludos :)

@@ -1,0 +1,175 @@
+Nicko Chamorro19:46
+sisi
+Cesar Morel19:47
+si
+Marcelo Adrian Rearte Becerra19:47
+si
+Martin Andres19:47
+si
+Miguel Caldiroli19:47
+si
+Lean Medina19:47
+Yesss
+Nicko Chamorro19:47
+si
+Feliciano Vitullo19:47
+si
+Cesar Morel19:47
+perdon visual studio code
+Camila Maita19:47
+sip
+Nicko Chamorro19:47
+de una
+Miguel Caldiroli19:47
+seeeeeee
+Camila Maita19:47
+siiiiiiiiiiii
+Feliciano Vitullo19:47
+lloro
+Martin Andres19:47
+si
+Analía F19:47
+Siiiii
+Lean Medina19:47
+Siiiiiii
+Marcelo Adrian Rearte Becerra19:47
+si
+Cesar Morel19:47
+si
+Pablo Sparhakl19:48
+si
+Camila Maita19:53
+okii
+RA R19:57
+no se ve
+Gabriel Munoz19:57
+npx create-react-app mi-primer-app
+Martin Andres19:58
+me dice si procede
+Facundo Orsi19:59
+tenes node?
+Gabriel Munoz19:59
+node --version
+Facundo Orsi19:59
+gabi no armaste proyectos con vite?
+Martin Andres19:59
+node -v
+Feliciano Vitullo20:00
+a mi lo mismo, tengo que instalar ese paquete: create-react-app@5.0.1
+Facundo Orsi20:00
+es mucho mas rapido y te carga lo justo y necesario
+Feliciano Vitullo20:00
+si
+Miguel Caldiroli20:00
+esta tardando bastante, asi q calculo q va bien
+Cesar Morel20:00
+listo
+Gabriel Munoz20:01
+npm start
+RA R20:02
+en la parte teorica está explicado como se hace?
+Analía F20:02
+Con respecto a lo teórico... Sube hoy al drive? o ya está?
+Cesar Morel20:02
+levanto bien la app en localhost:3000
+Natalia Alcaraz20:03
+profe, pasaría otra vez los links?
+porfa, entré con la otra compu
+Martin Andres20:03
+babel y eso se instala solo
+Analía F20:03
+Genio!!!
+Buenísimo!!!
+Natalia Alcaraz20:03
+no, los otros
+Gabriel Munoz20:03
+Formulario de Asistencia:
+https://forms.gle/HtJHsx6TsR135Jai6
+
+Link clases grabadas:
+https://www.youtube.com/playlist?list=PL9FDV61UoWvLA8ctDSA4hl74jy9kZhsUz
+
+Link drive:
+https://drive.google.com/drive/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X?usp=sharing
+
+Link aula virtual:
+https://aulasvirtuales.bue.edu.ar/login/index.php
+
+Link Discord:
+https://discord.gg/kUgCmWdbPj
+
+Link github:
+https://github.com/DevJumpProf/comision22809
+
+FORM DIAGNOSTICO
+https://forms.gle/je1U1XUVy1b1BM7c9
+https://es.reactjs.org/docs/create-a-new-react-app.html
+Miguel Caldiroli20:04
+sisi estamos
+Martin Andres20:05
+esta en eso
+Feliciano Vitullo20:05
+se abrio la pagina
+RA R20:06
+YO NO SE usar node
+ahi se cargando
+Nicko Chamorro20:06
+llegue igual
+Camila Maita20:07
+no se ve
+Miguel Caldiroli20:08
+ahi abrio, golazo
+Pablo Sparhakl20:09
+si
+Martin Andres20:09
+recien termina
+ulian Villanueva20:15
+si
+Miguel Caldiroli20:15
+si
+Nicko Chamorro20:15
+si
+Pablo Sparhakl20:15
+si
+Miguel Caldiroli20:18
+si bien por ahora
+Analía F20:18
+Se entendió.
+Miguel Caldiroli20:24
+si se entiende
+Camila Maita20:24
+sisi
+Julian Villanueva20:24
+sisi
+Camila Maita20:24
+perfecto
+david cortez20:24
+sí
+Camila Maita20:29
+siii
+Nicko Chamorro20:29
+si
+Lean Medina20:29
+Siiii, re
+Julian Villanueva20:29
+esta bueno muy interesante
+RA R20:30
+si me gusta más aplicado al hml
+Martin Andres20:30
+Para usar react en un hosting se precisa de alguno hosting especial
+RA R20:30
+html
+RA R20:31
+si
+Camila Maita20:34
+yes
+RA R20:34
+si
+Miguel Caldiroli20:34
+si
+Miguel Caldiroli20:35
+sisi
+RA R20:35
+si se ve
+Camila Maita20:35
+sii

@@ -1,0 +1,81 @@
+Facundo Orsi19:52
+some()
+Ana Alvarez19:52
+include
+Nicko Chamorro19:53
+animales.indexOf(elemento)===-1 ? false : true;
+Facundo Orsi19:55
+numeros.reduce((a, b) => a +b)
+Nicko Chamorro19:57
+bien
+Marcelo Adrian Rearte Becerra20:00
+Gabi pusiste i=o en vez de 0(cero)
+Nicko Chamorro20:00
+resultadosTest.reduce((acumulador,actual) => acumulador + actual) / resultadosTest.length;
+Facundo Orsi20:01
+resultadosTest.reduce((a, b) => a +b) / resultadosTest.length
+Iván Villena20:01
+return ( agregarNumeros(resultadosTest) / resultadosTest.length );
+Facundo Orsi20:01
+claro
+Camila Maita20:02
+sisi joya
+Walter Falcone20:03
+length mal escrito
+Nicko Chamorro20:04
+Math.max(...numeros)
+Marcelo Adrian Rearte Becerra20:06
+si
+Camila Maita20:07
+buenazo
+Nicko Chamorro20:08
+lo googlie
+Marcelo Adrian Rearte Becerra20:08
+no
+Pablo Sparhakl20:08
+nop
+Camila Maita20:08
+nop
+Martin Andres20:08
+no
+Jorge Cancinos20:08
+argumentos de una funcion?
+Nicko Chamorro20:09
+si, son los parametros
+Ignacio Corbillón20:12
+<=0?
+Ignacio Corbillón20:15
+también podría desde [0] sobre total=1 ... total*=arguments[i]
+Braian Arguello20:16
+en el if puede ir tmb un && para que no sea booleano o null ?
+o los argumentos siempre son numeros?
+Braian Arguello20:17
+oki gracias!
+Facundo Orsi20:17
+function multiplicarArgumentos() {
+let arr = [...arguments]
+console.log(arr)
+return arr.length == 0 ? 0 : arr.reduce((a, b) => a * b)
+}
+la diferencia es que arguments es un objeto y no un array
+Nicko Chamorro20:18
+claro, no tiene los métodos de array, si las propiedades
+Camila Maita20:18
+joya
+si se entiende
+Nicko Chamorro20:21
+arreglo.filter(elemento => elemento > 18)
+Facundo Orsi20:21
+y a eso sacale el length
+Nicko Chamorro20:23
+sisi me falto eso
+Camila Maita20:24
+con switch?
+Nicko Chamorro20:24
+es verdad, me paso y no sabía porque
+Camila Maita20:25
+no, lo acabo de pensar jaja
+Nicko Chamorro20:26
+numeroDeDia => numeroDeDia===1 || numeroDeDia===7 ? 'Es fin de semana' : 'Es dia Laboral';
+Braian Arguello20:26
+esta distinto el argumento

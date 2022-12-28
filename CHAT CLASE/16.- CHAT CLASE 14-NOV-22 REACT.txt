@@ -1,0 +1,240 @@
+Miguel Caldiroli19:06
+pasaste otra comision gaby
+Eliana Murialdo19:06
+es 22808 ese presentismo
+Gabriel Munoz19:06
+Formulario de Asistencia:
+https://forms.gle/HtJHsx6TsR135Jai6
+22809
+Miguel Caldiroli19:06
+joya
+Gabriel Munoz19:06
+Formulario de Asistencia:
+https://forms.gle/HtJHsx6TsR135Jai6
+Marcelo Adrian Rearte Becerra19:16
+si
+Diego Tola19:16
+si
+Eliana Murialdo19:19
+si
+Adrian DS19:19
+de diez
+Nicko Chamorro19:26
+0?
+Facundo Orsi19:26
+[0]
+de todas formas si el id es unico no deberia hacer falta no?
+Facundo Orsi19:28
+aaaah es porque retorna un array de todas formas
+Cesar Morel19:28
+No hay un FindBy? que traiga una sola de una?
+Facundo Orsi19:28
+perfecto
+Eliana Murialdo19:31
+barbaro
+Facundo Orsi19:35
+request
+Eliana Murialdo19:35
+req
+Feliciano Vitullo19:42
+vengo faltando y no se mucho todavia... pero antes del await no va "const blog" igual que arriba...?
+Nicolás Matías Benvino19:49
+sin las comillas en title y content?
+Octavio Ivan Pasciucco19:49
+se importo el controlador en la ruta? no alcance a ver
+Adrian DS19:51
+no es /createBlog?
+Octavio Ivan Pasciucco19:51
+espero no preguntar cualquiera, pero porque en la ruta de postman ponemos blogs y no createBlog?
+eso
+si
+Facundo Orsi19:52
+el req.body me da undefined cuando hago el console.log
+Cesar Morel19:58
+el req.body tiene el contenido que esta esprando el modelo?
+Facundo Orsi20:03
+export const createBlog = async (req, res) => {
+  try {
+    // console.log(req);
+    // const blog = await BlogModel.create(req.body);
+    // res.json({ message: "Registro creado" });
+  } catch (error) {}
+};
+Cesar Morel20:05
+pero si no es POST no hay body
+ah me confundi el metodo con el nombre del recurso
+Adrian DS20:13
+Comilla final
+Eliana Murialdo20:13
+si comilla
+Adrian DS20:14
+No estabas mandando un array en el primer ejemplo?
+O sea,
+[
+{
+"title":"......",.
+"content": "......"
+}
+]
+Y ahora solo el elemento
+O sea:
+{
+"title":"......",.
+"content": "......"
+}
+Nicko Chamorro20:15
+creo que probó así también
+creo
+Adrian DS20:16
+Ok, es que me pegue una mareada mas o menos en un momento....
+Feliciano Vitullo20:25
+jajaajja
+Camila Maita20:25
+jajajjaja
+Nicko Chamorro20:25
+jajajaja
+Feliciano Vitullo20:25
+fue una buena practica para todos! jaajja
+Eliana Murialdo20:25
+q alivio jaja
+
+Marcelo Adrian Rearte Becerra20:26
+yo ya hubiera cerrado la pc, indignadisimo jajjaa
+Eliana Murialdo20:26
+mal jajaja
+si
+Facundo Orsi20:27
+sisi
+Cesar Morel20:27
+ok
+Adrian DS20:27
+Terminemos
+Eliana Murialdo20:27
+de una
+Camila Maita20:27
+y si ya fue
+Facundo Orsi20:27
+si te queda nafta...
+feliz cumple!
+Eliana Murialdo20:27
+feliz cumpleeee!!!
+Feliciano Vitullo20:27
+uhhh feliz cumple!!!
+Camila Maita20:27
+FELIZ CUMPLEEE
+Pablo Sparhakl20:27
+eliz cumplee
+Leonardo Guzmán20:27
+Feliz cumpleaños!!!
+Cesar Morel20:27
+nah pero entonces no
+Adrian DS20:27
+Pero!
+Ignacio Corbillón20:27
+profe andá a disfrutar
+Pato20:27
+FELIZ CUMPLEEEEE!!!
+Marcelo Adrian Rearte Becerra20:27
+FELIZ CUMPLE!!!
+Adrian DS20:27
+Avisa eso antes!
+Feliciano Vitullo20:27
+jajajaja anda a comer torta!!!
+Pato20:27
+vayaaaaaaa
+Adrian DS20:27
+Felis cumple
+Octavio Ivan Pasciucco20:27
+feliz cumple!!!
+Ana Alvarez20:27
+feliz cumple!!!!! nos vemos
+Eliana Murialdo20:27
+hubieras dicho antes gaby, seguimos la proxima!
+Adrian DS20:27
+Terminamos la proxima!
+Pato20:28
+vaya o le cantamos el cumpleaños larguiisimo venezolano
+Cesar Morel20:28
+ya esta cortamos todos asi te obligamos a ir
+Miguel Caldiroli20:28
+feliz cumpleeeeeee
+Feliciano Vitullo20:28
+nos vamos todos
+jajajaaj
+Miguel Caldiroli20:28
+nos vemosssss
+Ana Alvarez20:28
+saliendo
+Feliciano Vitullo20:28
+ta luegoooo
+Pato20:28
+nos fuimos
+Feliciano Vitullo20:28
+jajajajajajaja
+Pato20:28
+no lo leo
+Mateo Salas20:28
+jasdja
+Pato20:28
+no lo estoy leyendo ni escuchando
+
+Camila Maita20:29
+analia tenes el mic activado
+ahi ta
+Analía F20:30
+-si, perdón... Estaba a las puteadas... Se escuchó?  Jajajajaja
+Camila Maita20:30
+jajaja nono, solo habia ruido
+Analía F20:32
+Jajajaja... menos mal... GRACIAS!  ;)
+Eliana Murialdo20:36
+falta un )
+ah ok
+Facundo Orsi20:36
+vaaamooooo
+a cortar la torta y brindar
+Eliana Murialdo20:37
+localhost
+si
+excelente!
+Martin Andres20:38
+Dale nos vemos
+Feliciano Vitullo20:38
+a comer tortaaaaaa
+Eliana Murialdo20:38
+feliz cumple!
+Nicko Chamorro20:38
+gracias! feliz cumple!
+Feliciano Vitullo20:38
+naaaaaa andateeeee
+Analía F20:38
+Que termines bien el día!!! Vaya!!!
+Feliciano Vitullo20:38
+jajajajaja
+Octavio Ivan Pasciucco20:38
+gracias Gabi por la clase! que la pases excelente
+Eliana Murialdo20:38
+hasta el miercoles!
+Facundo Orsi20:38
+el deber llama
+Camila Maita20:38
+a disfrutar!!
+Analía F20:38
+Disfrute!!
+Mateo Salas20:38
+nos vemos
+Miguel Caldiroli20:38
+chau fanatico jaja
+Facundo Orsi20:38
+feliz cumple!!!!
+Mateo Salas20:38
+feliz cumple!
+Adrian DS20:38
+Nos vemos profe, gracias! Y feliz cumple!
+Feliciano Vitullo20:38
+feliz cumpleeeeeee!!!
+genio!
+Ignacio Corbillón20:38
+un abrazo profe, pasela de diez!
+Facundo Orsi20:38
+abeazo

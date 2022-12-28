@@ -1,0 +1,239 @@
+Gabriel Munoz19:08
+Formulario de Asistencia:
+https://forms.gle/HtJHsx6TsR135Jai6
+
+Link clases grabadas:
+https://www.youtube.com/playlist?list=PL9FDV61UoWvLA8ctDSA4hl74jy9kZhsUz
+
+Link drive:
+https://drive.google.com/drive/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X?usp=sharing
+
+Link aula virtual:
+https://aulasvirtuales.bue.edu.ar/login/index.php
+
+Link Discord:
+https://discord.gg/kUgCmWdbPj
+
+Link github:
+https://github.com/DevJumpProf/comision22809
+Miguel Caldiroli19:09
+sisi
+Marcelo Adrian Rearte Becerra19:09
+si
+Feliciano Vitullo19:10
+con Quokka no pude hacer nada que tenga "prompt", me dice que no esta definido..
+ah okas
+Cesar Morel19:11
+perdon, ando con tramites del PAMI de aca para alla
+Miguel Caldiroli19:11
+postivo
+Feliciano Vitullo19:11
+es positivo
+Pato19:11
+es positivo?
+Lean Medina19:12
+mayor o igual a cero, así si pone 0 también
+Ah, no dije nada, ahí leí bien :p
+Walter Falcone19:13
+falta cambiar el mensaje negativo
+Miguel Caldiroli19:13
+linea 127, el signo tiene q ser menor
+Nicko Chamorro19:13
+yo lo simplifique con if ternario
+numero==0 ? false : numero>0 ? "Es positivo" : "Es negativo";
+Cesar Morel19:14
+Es un ternario anidado
+Nicko Chamorro19:15
+claro
+achicas un monton
+Walter Falcone19:17
+ahi si necesitas llaves
+hay dos lineas de codigo
+Cristian Reutter19:20
+el salto va en el doc write
+Cristian Reutter19:22
+lo pasate por parametro en linea 137
+Feliciano Vitullo19:24
+alto*ancho
+Nicko Chamorro19:25
+sisi
+lado*4
+Feliciano Vitullo19:27
+0.5*base*altura
+Nicko Chamorro19:27
+(base*altura)/2
+Nicko Chamorro19:29
+euro*1.20
+Martin Andres19:36
+si ingresa un numero
+Nicko Chamorro19:36
+o un signo
+Lean Medina19:40
+Todo perfecto
+Nicko Chamorro19:40
+todo bien
+Camila Maita19:45
+como activo el quoka?
+si lo tengo
+Camila Maita19:46
+aaahh
+con el + genial
+gracias!!
+Miguel Caldiroli19:47
+sisi
+Nicko Chamorro19:48
+si
+Nicko Chamorro19:49
+f
+Miguel Caldiroli19:52
+sisi
+Camila Maita19:52
+si barbaro
+Miguel Caldiroli19:52
+ejercicios
+Cristian Reutter19:55
+2*i
+Miguel Caldiroli20:00
+buenisimo
+Lean Medina20:00
+Buenarda
+Nicko Chamorro20:05
+sisi
+Camila Maita20:08
+console.log(funcion.length) ?
+Nicko Chamorro20:10
+array.length - 1
+Martin Andres20:10
+length-1
+Feliciano Vitullo20:10
+nombreEstudiantes.length -1
+Camila Maita20:10
+.lenght(4)
+3
+ahh
+Pablo Sparhakl20:11
+console.log (nombresEstudiantes[nombresEstudiantes.length-1])
+Eliana Murialdo20:11
+-1
+Camila Maita20:12
+sisi joya
+Eliana Murialdo20:12
+si
+Camila Maita20:13
+aah oka
+Analía F20:14
+Es Python en el que el indice "-1" es el último elemento de la colección/diccionario?
+Es una pregunta!
+Camila Maita20:15
+si creo que si
+Analía F20:15
+Y si lo probamos en JS?
+También?!?!?
+Cesar Morel20:15
+Es una pregunta capciosa jaja
+Analía F20:15
+OK!  Es python entonces...
+Feliciano Vitullo20:15
+si, era en python
+Analía F20:15
+jajajajaja
+Cesar Morel20:16
+En python si, pero no se si es el unico lenguaje que tiene ese comportamiento
+Analía F20:16
+Porque es de 0 a 3
+Nicko Chamorro20:18
+django
+Natalia Alcaraz20:18
+EL padrino
+Miguel Caldiroli20:18
+300
+Pato20:18
+matrix
+Natalia Alcaraz20:19
+nooooooooo
+Cristian Reutter20:19
+noooo
+Natalia Alcaraz20:19
+pecadooooooo
+Nicko Chamorro20:19
+tarea para la semana que viene
+jjajaja
+Feliciano Vitullo20:20
+Feliciano Vitullo ha abandonado la reunion
+Ignacio Corbillón20:20
+es una película que no puede rechazar
+Natalia Alcaraz20:20
+cuando tenes hijos las pelis se ven como series
+Walter Falcone20:20
+clasic
+Natalia Alcaraz20:20
+:/
+Walter Falcone20:20
+el padrino II
+Cristian Reutter20:20
+star wars las viste? jajaja
+Natalia Alcaraz20:20
+siiiii
+Pato20:21
+nah, me quedo con los libros XD
+Jorge Cancinos20:21
+erase una vez en america
+una joya oculta del cine esa
+Walter Falcone20:22
+el rey de la comedia
+jerry lewis robert de niro
+director: Scorsese
+Pato20:23
+2
+Miguel Caldiroli20:23
+2
+Tú20:23
+2
+Feliciano Vitullo20:23
+2
+Nicko Chamorro20:23
+2
+Natalia Alcaraz20:23
+2
+Natalia Alcaraz20:25
+El dictador
+Miguel Caldiroli20:25
+El Irlandes
+Pablo Sparhakl20:25
+Chequee recien la pregunta de @Analia sobre el -1 en Python y es verdad, devuelve la ultima posicion del array
+Martin Andres20:26
+si pones el el indice 7
+Feliciano Vitullo20:27
+quedan vacios los demas
+Camila Maita20:28
+barbaroo
+Martin Andres20:29
+exelente
+Miguel Caldiroli20:29
+perfecto
+ignacio gabriel Brasesco20:29
+buenísimo
+Eliana Murialdo20:30
+joyaa
+Rebeca Beatriz Cruz20:30
+joya
+Pato20:30
+gracias
+Natalia Alcaraz20:30
+gracias
+Miguel Caldiroli20:30
+graciassss
+Agustin López20:30
+Saludos
+Martin Andres20:30
+chau
+ignacio gabriel Brasesco20:30
+chau chau
+Walter Falcone20:30
+chau
+Pablo Sparhakl20:30
+chaus
+Mateo Salas20:30
+chau
+Camila Maita20:30
+chau chauu

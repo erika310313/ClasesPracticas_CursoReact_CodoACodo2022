@@ -1,0 +1,190 @@
+Guido Calciano19:30
+perfectooo
+Miguel Caldiroli19:30
+si si
+Camila Maita19:31
+es la forma mas ultiizada ?
+ah eso, las buenas prácticas
+Feliciano Vitullo19:33
+snake_case   : )
+Julian Villanueva19:35
+python es practicamente snake case puro, JS es mas libre dependiendo el equipo
+Guido Calciano19:36
+perfectooo gracias!
+Nicko Chamorro19:36
+consulta para js/react hay metodologías tipo BEM para css?
+Feliciano Vitullo19:36
+yo vengo de C y C++, se usa mas snake_case
+me parece
+jaja
+Nicko Chamorro19:37
+joya justo estuve leyendo eso estos dais
+dias
+Guido Calciano19:39
+sisi
+Natalia Alcaraz19:39
+si
+Nicko Chamorro19:39
+UperCamelCase es también llamado Pascal Case no?
+Camila Maita19:42
+barbaroo
+Guido Calciano19:42
+bien bien
+Lean Medina19:42
+Buenisimooo
+Jose Muthuan19:42
+todo Oka!
+Guido Calciano19:43
+poniendo let estas creando la variable de nuevo y te dice "che, esa variable ya existe"
+Guido Calciano19:45
+misterio
+Martin Andres19:48
+se pueden cambiar los datos de string a boolean
+Martin Andres19:49
+ok
+Cesar Morel19:50
+para eso surge typescript
+Lean Medina19:50
+Genial
+Natalia Alcaraz19:56
+Profe, me anda mal wifi, cuál es global ? let o var?
+Facundo Orsi19:56
+var
+Natalia Alcaraz19:56
+Gracias!!
+Facundo Orsi19:57
+jajaja
+Lean Medina19:59
+Gaby, me tengo que retirar antes hoy, hay drama? Luego veo la clase grabada igualmente
+Miguel Caldiroli19:59
+si si
+Camila Maita19:59
+sisi
+Agustin López19:59
+si
+María Eugenia Lisio19:59
+Si se entiende
+Nicko Chamorro19:59
+todo bien
+Lean Medina19:59
+Saludos, y suerte! :)
+Braian Arguello20:05
+1996
+Jorge Cancinos20:06
+son datos numericos
+los opera matematicamente
+Camila Maita20:08
+noop
+Miguel Caldiroli20:08
+error?
+Camila Maita20:08
+error
+ah puede multiplicar x veces el texto
+Camila Maita20:10
+aah oks
+Miguel Caldiroli20:11
+buenisimo
+Nicko Chamorro20:11
+perfecto
+Cesar Morel20:11
+El que le toque hacer debug agradecido
+Camila Maita20:11
+sisi joya
+Iván Villena20:11
+si pones primero numero + numero2, al empezar con un numero, saldría la suma?
+ok!
+Feliciano Vitullo20:13
+el salto de linea como se escribe...?
+Braian Arguello20:13
+creo que /n
+Feliciano Vitullo20:13
+\n...?
+Braian Arguello20:14
+el br no va en el html?
+Pablo Sparhakl20:14
+jjj
+Camila Maita20:14
+jajajjaajja
+Miguel Caldiroli20:14
+XD
+Natalia Alcaraz20:14
+obvioooo
+la tienen re clara
+Nicko Chamorro20:14
+uhh cago el profe
+a poner la guita jaja
+Andres Ignacio Lopez20:14
+Hombre de negocios
+Cesar Morel20:15
+A mi me vino el finde con dos dientes
+un pagare le dejo el raton Perez jajaj
+Natalia Alcaraz20:15
+jajajaj
+Feliciano Vitullo20:15
+ahhh perfecto
+antonella cavallo20:17
+nop
+Feliciano Vitullo20:18
+en punteros...?
+Jorge Cancinos20:19
+es un espacio de memoria vacio?
+antonella cavallo20:19
+es un valor desconocido
+Miguel Caldiroli20:20
+si
+Natalia Alcaraz20:20
+si
+Nicko Chamorro20:20
+sisi
+Agustin López20:20
+joya
+Nicko Chamorro20:24
+si
+Camila Maita20:26
+genial
+Camila Maita20:27
+sisi
+Nicko Chamorro20:27
+sisi
+Cesar Morel20:28
+si
+Ivan Pasciucco20:30
+un parseo?
+Camila Maita20:31
+aaaaaaaaaaaaahh
+joya
+Julian Villanueva20:31
+ah es como el F string
+pero al reves jaja
+Martin Andres20:32
+y si escribe texto
+Camila Maita20:32
+falta el promtt
+Miguel Caldiroli20:34
+de 10
+Feliciano Vitullo20:34
+Excelente!!
+Ana Alvarez20:34
+todo ok
+Guido Calciano20:34
+perfectoo
+Camila Maita20:34
+super
+Walter Falcone20:34
+perfecto
+Analía F20:34
+Genial!
+Miguel Caldiroli20:34
+ya terminamos asi te sacas la campera xD
+Natalia Alcaraz20:34
+Gracias profe! me voy a la clase de Diseño ux
+Diego Gonzalez20:34
+Buenísimo
+Nicolás Matías Benvino20:34
+nos vemos
+Pablo Sparhakl20:34
+buena clase
+Miguel Caldiroli20:34
+chauuu
+Mateo Salas20:34
+nos vemos

@@ -1,0 +1,144 @@
+Octavio Ivan Pasciucco19:05
+terminamos el crud de blogs la clase anterior
+Pato19:06
+que cool
+Feliciano Vitullo19:06
+jajaajja
+Walter Falcone19:18
+pregunta Gabriel: por qué creaste el archivo socialmedia.sql en database?
+Walter Falcone19:19
+ah, ok ok
+Nicko Chamorro19:20
+consulta, se puede trabajar con tablas sin id autoincremental?
+con id compuestos
+Marcelo Adrian Rearte Becerra19:30
+estuvo muy bueno
+Nicko Chamorro19:30
+estuvo bueno
+Walter Falcone19:30
+óptimo
+Miguel Caldiroli19:33
+si
+Eliana Murialdo19:33
+si
+Nicko Chamorro19:33
+sisi
+Gabriel Munoz19:35
+npm i axios bootstrap
+Eliana Murialdo19:37
+si
+Nicko Chamorro19:42
+si se entiende
+Gabriel Munoz19:42
+https://es.reactjs.org/docs/strict-mode.html#:~:text=StrictMode%20es%20una%20herramienta%20para,comprobaciones%20adicionales%20para%20sus%20descendientes.
+Miguel Caldiroli19:43
+gaby consulta, vamos a ver como evitar inyeccion sql?
+si
+Eliana Murialdo19:44
+sisi se entendio
+Gabriel Munoz19:45
+import 'bootstrap/dist/css/bootstrap.min.css'
+Cesar Morel19:45
+Entiendo que usar Model es un poco para eso, los frameworks "abstraen" las consultas y las pasan sanitizadas a la DB
+Eliana Murialdo19:48
+excelente
+Eliana Murialdo19:52
+delete no?
+Nicko Chamorro19:52
+va tambien el .jsx en la importacion?
+Miguel Caldiroli19:52
+sisi
+Eliana Murialdo19:52
+vamos bien
+Diego Gonzalez19:52
+Si si
+Nicko Chamorro19:52
+ok gracias
+Eliana Murialdo19:53
+ah claro
+sisi
+se elimina directamente
+claro
+Cesar Morel19:53
+Ojo con las mayúsculas minúsculas si usan un entorno no-windows
+Walter Falcone20:03
+fácil
+Miguel Caldiroli20:04
+no
+Eliana Murialdo20:04
+no
+Tú20:07
+|
+
+Marcelo Adrian Rearte Becerra20:10
+res.body
+data
+Walter Falcone20:11
+res.data?
+Nicko Chamorro20:13
+seria como el getter y setter de estado no?
+Nicko Chamorro20:18
+si se entiende
+Eliana Murialdo20:18
+si
+Nicko Chamorro20:19
+sisi
+Eliana Murialdo20:22
+bien
+Nicko Chamorro20:22
+si
+
+Marcelo Adrian Rearte Becerra20:24
+id
+Walter Falcone20:24
+id
+Martin Andres20:24
+id
+Nicolás Matías Benvino20:25
+${url}${id} ?
+Eliana Murialdo20:25
++{id}
+Nicko Chamorro20:25
+url${id}
+Eliana Murialdo20:25
+claro
+si
+Walter Falcone20:26
+async con mayúscula?
+Nicko Chamorro20:26
+sisi
+Diego Gonzalez20:26
+Si
+
+Martin Andres20:32
+si
+Eliana Murialdo20:32
+ok
+Diego Tola20:34
+podria pasar de nuevo la asistencia
+Nicko Chamorro20:34
+o sea deberíamos arrancarlo ya no?
+Eliana Murialdo20:34
+el lunes hay clases?
+Gabriel Munoz20:34
+https://adriandesimone.github.io/CAC2022-accesos-directos
+Camila Maita20:34
+ah ya se puede empezar
+Eliana Murialdo20:34
+ok
+Analía F20:35
+Muchas Gracias!!!
+Eliana Murialdo20:35
+gracias!
+Walter Falcone20:35
+Saludos !!!
+Eliana Murialdo20:35
+buen finde
+Miguel Caldiroli20:35
+buenisimo nos vemos!
+Eliana Murialdo20:35
+abrazo
+Nicko Chamorro20:35
+gracias buen finde
+Nicolás Matías Benvino20:35
+nos vemos

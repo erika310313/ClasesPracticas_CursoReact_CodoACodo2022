@@ -1,0 +1,241 @@
+Nicolás Mercado Grad19:14
+Buenas!
+Gabriel Munoz19:14
+https://github.com/
+Diego Gonzalez19:17
+Profe.. se puede tener dos cuentas de github en uso en la misma compu?
+Nicko Chamorro19:18
+no, tengo una
+Diego Gonzalez19:18
+Perfecto
+Mateo Salas19:18
+tengo una
+Cesar Morel19:18
+Perdon por la hora, un problemita en PROD
+Cesar Morel19:30
+punto
+Marcelo Adrian Rearte Becerra19:30
+.
+Cesar Morel19:30
+. es una referencia al directorio actual
+Guido Calciano19:30
+un solo punto
+Nicko Chamorro19:30
+un solo punto
+Vilma Ponce19:30
+Hola! me pasarian el link de la asistencia?
+Iván Villena19:31
+asistencia: https://docs.google.com/forms/d/e/1FAIpQLScL1G-b2R7xGEqj89LUIbNoVAgYyda7x8zom_wec0GTW6Jsyw/viewform
+Cesar Morel19:33
+yo uso dos perfiles
+Cesar Morel19:35
+En mi home en el archivo .gitconfig
+Nicko Chamorro19:36
+no estoy seguro pero puede ser que cambia de usuario con estos comandos:
+git config global user.name "Tu nombre aquí"
+git config global user.email "tu_email_aquí@example.com"
+Cesar Morel19:37
+Claro pero eso lo hace global
+y si usas dos cuentas se te hace lio
+Nicko Chamorro19:38
+aahh ok gracias, no lo se entonces ja
+yo tambien con un guion
+Cesar Morel19:38
+si no  usas el "global" lo configuras solo a nivel de proyecto, pero eso hace que por cada proyecto lo tengas que configurar
+Yo con uno
+Jorge Alwin Maiden Suarez19:38
+con uno
+Cesar Morel19:39
+con dos su uso la palabra completa
+--commit
+Vilma Ponce19:39
+con uno
+Cesar Morel19:39
+perdon --message
+Gabriel Munoz19:45
+https://github.com/DevJumpProf/comision22809.git
+Facundo Orsi19:45
+si
+Nicolás Mercado Grad19:45
+No
+María Eugenia Lisio19:45
+Si
+Tú19:45
+sip
+Nicko Chamorro19:45
+si
+Mauro Florio19:45
+si
+Guido Calciano19:45
+si
+Lean Medina19:45
+yes
+Marcelo Adrian Rearte Becerra19:45
+si
+Ana Alvarez19:45
+no
+Jorge Alwin Maiden Suarez19:45
+no
+Analía F19:45
+Si
+Nicolás Mercado Grad19:45
+si porfa
+Lean Medina19:46
+nono
+Cristina Kyselka19:46
+Yo tampoco estoy en el grupo
+Braian Arguello19:47
+https://chat.whatsapp.com/KGacpK1Za0lJHc0F05VSaj
+ese es el link del grupo de whatsapp
+Walter Falcone19:47
+¿en la misma rama o una rama nueva?
+Lean Medina19:47
+Me pasarías el repositorio?
+Gabriel Munoz19:48
+https://github.com/DevJumpProf/comision22809.git
+Cesar Morel19:48
+yo intente subir un cambio en una rama, pero no pude por permisos
+Facundo Orsi19:48
+se puede usar desde vsc también
+Cesar Morel19:49
+preferis push directo o pull request?
+Braian Arguello19:49
+y la terminal de vsc?
+Camila Maita19:51
+No me deja ver los mensajes de la llamada
+Julian Villanueva19:53
+querias crear el archivo por consola?
+Julian Villanueva19:54
+si la carpeta tenia nombre complicado ajaja
+Marcelo Adrian Rearte Becerra19:55
+no es git push origin main?
+Cesar Morel19:56
+no tiene permisos
+Lean Medina19:56
+leanmedina93@gmail.com
+Marcelo Adrian Rearte Becerra19:56
+gracias!
+Julian Villanueva19:57
+ah es parecido a jira el metodo
+q copado
+Matias Diaz19:58
+https://www.youtube.com/playlist?list=PL9FDV61UoWvLA8ctDSA4hl74jy9kZhsUz
+Cesar Morel19:58
+se viene el practico final :P
+Tú19:59
+https://www.google.com/url?q=https://drive.google.com/drive/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X?usp%3Dsharing&sa=D&source=calendar&usd=2&usg=AOvVaw3-sjBdSteG9q_I1ypUJWqQ
+Gabriel Munoz19:59
+https://drive.google.com/drive/u/1/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X
+Formulario de Asistencia:
+https://forms.gle/HtJHsx6TsR135Jai6
+Lean Medina20:01
+:O
+Julian Villanueva20:01
+aaa buenisimo eso
+Lean Medina20:03
+Genial
+Gabriel Munoz20:03
+https://desktop.github.com/
+Walter Falcone20:05
+apagando los micro, por favor...
+Julian Villanueva20:10
+perfecto
+Miguel Caldiroli20:11
+si si
+Martin Andres20:11
+si
+Nicko Chamorro20:11
+sisi
+Gabriela A20:11
+Tienen grupo wjatsapp?
+Cesar Morel20:11
+si
+Gabriela A20:11
+Jajj
+Braian Arguello20:11
+https://chat.whatsapp.com/KGacpK1Za0lJHc0F05VSaj
+Gabriela A20:12
+Grcaias!!!
+Siii
+Gabriel Munoz20:12
+https://chat.whatsapp.com/KGacpK1Za0lJHc0F05VSaj
+Guido Calciano20:13
+x donde lo enviamos?
+Facundo Orsi20:13
+al mail se lo mandamos?
+gracia
+s
+Miguel Caldiroli20:14
+de 10
+Nicko Chamorro20:14
+perfecto
+Nicolás Mercado Grad20:15
+Perfecto!
+Miguel Caldiroli20:16
+buenisimo
+Julian Villanueva20:17
+tu pregunta fue clave Lean me re sirvio a mi
+Ivan Pasciucco20:18
+siendo estudiante de coder, busca mejor en youtube
+Matias Diaz20:18
+jajajaaj
+Braian Arguello20:18
+aprovecha y practica con freecodecamp
+Ivan Pasciucco20:18
+n gastes, no es malo, pero podes aprender por tu cuenta lo mismo
+Julian Villanueva20:18
+yo hice el de QA en coder y le falto bastante
+pero algo aprendi
+Lean Medina20:19
+Espectacular!
+ignacio gabriel Brasesco20:19
+genial
+Analía F20:19
+De 10!
+Mauro Florio20:19
+excelente
+Cesar Morel20:20
+Te paso un enlace que explica como hacer lo de los dos perfiles que quedo colgado hoy (no se quien lo necesitaba): https://riptutorial.com/git/example/31016/multiple-usernames-and-email-address funciona
+Martin Andres20:20
+nos vemos
+Maximiliano Fernández20:20
+perfecto
+Braian Arguello20:20
+buena semana!
+Marcelo Adrian Rearte Becerra20:20
+nos vemos!!!
+Maximiliano Fernández20:20
+gracias
+Nicko Chamorro20:20
+bien profe
+Matias Diaz20:18
+jajajaaj
+Braian Arguello20:18
+aprovecha y practica con freecodecamp
+Ivan Pasciucco20:18
+n gastes, no es malo, pero podes aprender por tu cuenta lo mismo
+Julian Villanueva20:18
+yo hice el de QA en coder y le falto bastante
+pero algo aprendi
+Lean Medina20:19
+Espectacular!
+ignacio gabriel Brasesco20:19
+genial
+Analía F20:19
+De 10!
+Mauro Florio20:19
+excelente
+Cesar Morel20:20
+Te paso un enlace que explica como hacer lo de los dos perfiles que quedo colgado hoy (no se quien lo necesitaba): https://riptutorial.com/git/example/31016/multiple-usernames-and-email-address funciona
+Martin Andres20:20
+nos vemos
+Maximiliano Fernández20:20
+perfecto
+Braian Arguello20:20
+buena semana!
+Marcelo Adrian Rearte Becerra20:20
+nos vemos!!!
+Maximiliano Fernández20:20
+gracias
+Nicko Chamorro20:20
+bien profe

@@ -1,0 +1,376 @@
+Miguel Caldiroli19:07
+sisi
+Miguel Caldiroli19:12
+si, vamos nomas
+Eliana Murialdo19:15
+si
+Walter Falcone19:15
+yes
+Feliciano Vitullo19:15
+sisi
+un filtro
+Juan Manuel VALITUTTI19:15
+Sí
+Camila Maita19:17
+elemento es la lista de animales?
+Juan Manuel VALITUTTI19:17
+No entiendo bien cada uno de los paréntesis.
+Miguel Caldiroli19:17
+y si un elemento tiene 2 posiciones como perro?
+barbaro
+Juan Manuel VALITUTTI19:19
+Sí
+Walter Falcone19:20
+es el primero mayor a 3
+Juan Manuel VALITUTTI19:20
+El único mayor a 3 no son más?
+Pablo Sparhakl19:21
+el primer mayor
+Juan Manuel VALITUTTI19:21
+Ah, el primer mayor. ok
+Pablo Sparhakl19:21
+(creo)
+Miguel Caldiroli19:23
+lunes
+Miguel Caldiroli19:26
+no entiendo como funciona, que se entiende por a y b?
+Martin Andres19:29
+y porque tiene 2 condiciones para ordenarlo
+Jorge Cancinos19:29
+a mi hacian practicar metodos de ordenamiento
+esto es un atajo jajaja
+Martin Andres19:30
+o sea a>b  y -1;1
+Nicko Chamorro19:30
+es un if ternario
+Walter Falcone19:32
+no se me escucha?
+Miguel Caldiroli19:32
+nono
+Facundo Orsi19:32
+y si no lo hacemos ternario y retorna true/false
+(1 / 0 ) _
+claro
+Gabriel Munoz19:35
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+Miguel Caldiroli19:35
+joya, gracias Gaby
+Walter Falcone19:35
+hace un recorrido entre el primer elemento y el segundo, da un resultado, comprar el segundo con el tercero y compara, y asi...
+comprar = compara
+Walter Falcone19:36
+no se si se entiende
+y los va a ordenando
+Feliciano Vitullo19:36
+metodo de burbuja es ese...?
+Jorge Cancinos19:36
+la sucesion de fibonacci
+algo asi
+see es parte del abc
+Jorge Cancinos19:38
+si se podria usar para el metodo burbuja con un metodo mas re sirve
+Walter Falcone19:38
+https://www.todojs.com/usar-correctamente-el-metodo-sort/
+
+acá está bien explicado.
+como quieras
+Feliciano Vitullo19:40
+muy bueno...!
+Miguel Caldiroli19:44
+8
+Eliana Murialdo19:44
+8
+Juan Manuel VALITUTTI19:44
+012
+Eliana Murialdo19:44
+es el primer numero mayor a 3
+Jorge Cancinos19:44
+porque devuelve la posicion
+Adrian De Simone19:44
+El 8, que es el indice 2
+Walter Falcone19:44
+el primer indice que tiene elemento mayor a dos esta en el 2
+Eliana Murialdo19:44
+mayor a 3
+sisi
+Walter Falcone19:45
+si
+Feliciano Vitullo19:45
+varios jaja
+Feliciano Vitullo19:47
+a partir de la posicion 3, lo llena con todo 10
+Nicko Chamorro19:47
+si
+Jorge Cancinos19:48
+el ultimo parametro seria la cantidad de elemntos de la matriz?
+Ignacio Corbillón19:48
+No tiene tope en el primero, el segundo tiene de tope la posición 8?
+Jorge Cancinos19:49
+del array
+Nicko Chamorro19:49
+a partir del 4 hasta posición 8
+Martin Andres19:50
+el ultimo 8 marca el indice o el valor del elemento
+Camila Maita19:53
+despues del elemto 4
+Miguel Caldiroli19:53
+perfecto, seria el valor estatico, "desde" y "hasta"
+Camila Maita19:54
+ah ahi esta
+Facundo Orsi19:54
+es al indice
+Adrian De Simone19:54
+Y si pongo fill(8,4,2) O sea, el tercer argumento mas pequeño? Va para el otro lado?
+Facundo Orsi19:54
+des el indice 4 hasta el 8
+pero el hasta no lo incluye
+Jorge Cancinos19:55
+(indice inicia, elemento, elemento numero tanto en cantidad)
+Pablo Sparhakl19:56
+no haria nada
+tampoco
+Ana Alvarez19:56
+el fin es menor que el inicio
+Adrian De Simone19:57
+De el indice 4
+Miguel Caldiroli19:57
+claro, en la explicacion dice indice
+Camila Maita19:57
+cambia despues del elemento 4, y a partir del indice
+Miguel Caldiroli19:57
+no confundir con elemento
+Camila Maita19:58
+indice 3
+seria la posicion
+Facundo Orsi19:58
+por eso, es el indice del elemento
+Lean Medina19:58
+Buenaaardo
+Facundo Orsi19:58
+Parámetros
+value
+Valor con el que se va a rellenar el arreglo. (Nótese que todos los elementos en el arreglo tendrán este mismo valor).
+
+start Opcional
+Índice inicial, por defecto 0.
+
+end Opcional
+Índice final, por defecto this.length.
+Camila Maita19:59
+oksi
+Miguel Caldiroli20:00
+de 10
+Pato20:00
+gracais por agregar a los Loros, nunca estan en lso ejemplos XD
+Feliciano Vitullo20:00
+para hacer push en una tereminada posicion..?
+Facundo Orsi20:00
+jajajaj
+Eliana Murialdo20:00
+jajajaa
+Facundo Orsi20:01
+y que retorna el pop
+el elemento eliminado
+Miguel Caldiroli20:01
+jajaja
+Facundo Orsi20:01
+claro pero si le asignas el pop a auna variable se guarda ese elemento
+Natalia Alcaraz20:01
+datazoooo
+Eliana Murialdo20:01
+datazo
+Feliciano Vitullo20:01
+para hacer push en una tereminada posicion..?
+Facundo Orsi20:01
+o no?
+Natalia Alcaraz20:01
+no, ni ahí
+Feliciano Vitullo20:02
+ah perfecto
+Juan Manuel VALITUTTI20:02
+datazoRetro
+Nicko Chamorro20:05
+sisi
+Eliana Murialdo20:05
+si
+Natalia Alcaraz20:05
+si
+Juan Manuel VALITUTTI20:05
+Sí
+Feliciano Vitullo20:08
+desde la posicion 3, elimina 2, agrega gatito
+?
+Eliana Murialdo20:08
+si
+Martin Andres20:08
+si
+Camila Maita20:08
+el yacare lo cambio por gatito
+Juan Manuel VALITUTTI20:08
+Pero son elementos o índices?
+Nicko Chamorro20:08
+yacare y surubi
+Camila Maita20:08
+ah y ekl surubi
+sisi
+Miguel Caldiroli20:08
+elimino 2
+Eliana Murialdo20:08
+elimino yacare y surubi y agregó gatito
+Juan Manuel VALITUTTI20:09
+ok
+Eliana Murialdo20:09
+se va carpincho
+Camila Maita20:09
+porque elimina 2 elemntos?
+Camila Maita20:10
+3
+sisi
+Eliana Murialdo20:11
+ok
+Juan Manuel VALITUTTI20:11
+¿Cuándo y cómo lo hacemos ese ejercicio?
+Soy el "nuevo"
+Sí, va, va
+Miguel Caldiroli20:12
+vamaaaaa
+Juan Manuel VALITUTTI20:12
+Sí
+Ok, intrigado
+!!!!
+Miguel Caldiroli20:13
+sisi
+Nicko Chamorro20:13
+sisi
+Natalia Alcaraz20:14
+podés explicarlo una vez más, porfa?
+perdón, si
+Juan Manuel VALITUTTI20:14
+Lovecraftiano el flat...
+Perd{on, el index of
+Natalia Alcaraz20:15
+Gracias Gabi
+geniooo
+Miguel Caldiroli20:16
+era humo
+Juan Manuel VALITUTTI20:16
+La explicación es hermética.
+Eliana Murialdo20:16
+jajaja
+Juan Manuel VALITUTTI20:16
+De la NASA
+Pablo Sparhakl20:18
+array de chars
+Nicko Chamorro20:18
+sisi
+Eliana Murialdo20:18
+si
+Miguel Caldiroli20:19
+si
+Miguel Caldiroli20:21
+buenisimo
+Martin Andres20:21
+ok
+Camila Maita20:21
+joyaa
+Nicko Chamorro20:21
+bueno si
+Walter Falcone20:21
+Va
+Feliciano Vitullo20:21
+buen arranque
+Camila Maita20:21
+oki
+Natalia Alcaraz20:22
+ese está subido? el js3?
+Nicko Chamorro20:22
+creo que no todavia
+Juan Manuel VALITUTTI20:23
+¿Lo hacemos para una fecha, o lo hacemos acá? ¿Cómo es?
+Camila Maita20:23
+son para que practique cada uno lo visto
+no se entrega
+Miguel Caldiroli20:23
+ideal para el finde largo xD
+Feliciano Vitullo20:24
+despues los vemose¿ en clase
+*despues los vemos en clase
+era afirmacion jaja
+Juan Manuel VALITUTTI20:24
+Sí
+Sí, sí: eso lo hice.
+Ok
+Perfecto
+Una práctica
+No, obvio
+Miguel Caldiroli20:26
+haganlo aparte, no como yo que hice un git pull y se me borro todo ja
+Juan Manuel VALITUTTI20:26
+Perfecto
+Genial
+Camila Maita20:26
+buen dato miguel jaja
+Miguel Caldiroli20:27
+;)
+Natalia Alcaraz20:27
+Gabi, dos minutos, vengo atrasada con las clases, pero me explicarías el ternario? si podés...
+Miguel Caldiroli20:28
+me sumo al repaso
+Natalia Alcaraz20:28
+jajajajaj
+seguro que si
+a vos te tengo que regalar la fábrica!!!
+ya te la debo
+Natalia Alcaraz20:29
+si
+si
+Juan Manuel VALITUTTI20:30
+Clarísimo
+Camila Maita20:30
+el anidado suena mas dificil
+Natalia Alcaraz20:30
+espectacular
+Nicko Chamorro20:30
+es como si fuera un else if el anidado
+Natalia Alcaraz20:31
+maestro!!
+Eliana Murialdo20:31
+excelente
+Camila Maita20:31
+los : son los if
+Natalia Alcaraz20:31
+impresionante!!!
+Camila Maita20:31
+joya
+Natalia Alcaraz20:31
+la fábricaaaaa
+Eliana Murialdo20:31
+el profe estrella jaja
+Miguel Caldiroli20:31
+claro como el ojo de popeye
+Camila Maita20:32
+gracias profe!
+Juan Manuel VALITUTTI20:32
+Ok. Gracias. Nos vemos.
+Eliana Murialdo20:32
+gracias!
+Feliciano Vitullo20:32
+gracias profe...! Buen finde largo!
+Mateo Salas20:32
+nos vemos
+Adrian De Simone20:32
+Chau profe, gracias
+Pablo Sparhakl20:32
+graciass
+Miguel Caldiroli20:32
+nos vemos el miercoles?
+Juan Manuel VALITUTTI20:32
+Dale. Gracias.
+Camila Maita20:32
+okii
+Eliana Murialdo20:32
+listo
+Nicko Chamorro20:32
+no problem
+Camila Maita20:32
+hasta el miercoles

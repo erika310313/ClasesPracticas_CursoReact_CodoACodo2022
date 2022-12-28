@@ -1,0 +1,199 @@
+Nicko Chamorro19:39
+si
+Miguel Caldiroli19:39
+sisi
+Camila Maita19:39
+sip
+Nicko Chamorro19:39
+muchas veces tenes que usar important!
+porque no las pisa
+Miguel Caldiroli19:40
+pelu
+Eliana Murialdo19:40
+peluqueria
+Miguel Caldiroli19:40
+what pass  xD
+Facundo Orsi19:46
+se rompe porque no esta controlado el form
+habria que revisar el setStock
+Facundo Orsi19:48
+.value
+dice .stock
+Nicko Chamorro19:49
+ahi está eso es
+.stock va .value
+Facundo Orsi19:49
+fantastico
+Miguel Caldiroli19:50
+listo para currar con un sistema de stock $$$
+Nicko Chamorro19:50
+sisi
+Camila Maita19:50
+barbaroo
+Facundo Orsi19:50
+la UI te la debo jaja
+Martin Andres19:52
+id
+Facundo Orsi19:52
+useParams
+Facundo Orsi19:56
+una para buscar el doc
+y otra para update
+Facundo Orsi20:05
+swal y redireccionar
+
+Marcelo Adrian Rearte Becerra20:09
+te falto la C de className en el label
+Miguel Caldiroli20:09
+borraste la  C de className
+Miguel Caldiroli20:10
+linea 46
+Nicko Chamorro20:14
+por apuntar a la misma base
+
+Miguel Caldiroli20:18
+de 10
+Marcelo Adrian Rearte Becerra20:18
+excelente
+Nicko Chamorro20:18
+buenisima la cursada, lastima que ya termina
+Lean Medina20:18
+Se aprendió mucho!
+Miguel Caldiroli20:18
+si dale
+Eliana Murialdo20:18
+si
+Analía F20:19
+Listos!!!
+Deale!
+
+si
+Leandro Pastori20:23
+si
+Lean Medina20:23
+yesss
+Leandro Pastori20:23
+/**/
+Marcelo Adrian Rearte Becerra20:23
+/**/
+Nicko Chamorro20:23
+/**/
+Feliciano Vitullo20:23
+/**/
+María Eugenia Lisio20:23
+/**/
+Marcelo Adrian Rearte Becerra20:24
+nose ve tu pantalla profe, solo tu cara
+Miguel Caldiroli20:24
+#nota
+Nicko Chamorro20:24
+#nota
+Ignacio Corbillón20:24
+#id{}
+Camila Maita20:24
+#NOTA
+yo imaginandome todo jaajaj
+Feliciano Vitullo20:24
+jajajaja pense que era aproposito
+Ignacio Corbillón20:25
+no escuche lo de nota jaja
+Gabriel Munoz20:25
+p, div.bloque { margin-bottom: 25px; }
+Camila Maita20:25
+como??
+Leandro Pastori20:25
+25 px para margen inferior
+Gabriel Munoz20:26
+p, div.bloque { margin-bottom: 25px; }
+Leandro Pastori20:26
+para los parrafos y los div con clase bloque
+Camila Maita20:26
+eso
+jajaj
+Martin Andres20:26
+node -v
+Leandro Pastori20:26
+npm --version
+Miguel Caldiroli20:26
+node -v
+Camila Maita20:26
+node --version
+Nicko Chamorro20:26
+node --v
+Pablo Sparhakl20:26
+node -v
+Marcelo Adrian Rearte Becerra20:27
+npm i
+Martin Andres20:27
+npm i
+Miguel Caldiroli20:27
+npm i
+Nicko Chamorro20:27
+npm i nombre
+Camila Maita20:27
+npm i
+Cesar Morel20:27
+npm i paquete
+Camila Maita20:27
+aah
+Marcelo Adrian Rearte Becerra20:27
+npm start
+Miguel Caldiroli20:27
+npm start
+Leandro Pastori20:27
+init
+ah crear
+Pablo Sparhakl20:27
+npm init
+Camila Maita20:27
+si
+Miguel Caldiroli20:27
+npx
+Marcelo Adrian Rearte Becerra20:28
+create react app
+Eliana Murialdo20:28
+create app
+Nicko Chamorro20:28
+npx create-react-app nombre
+Pablo Sparhakl20:28
+npx create-react-app
+Miguel Caldiroli20:28
+npx create-react-app
+Eliana Murialdo20:28
+react si
+Pato20:28
+alguien me puede pasar el link del aula virtual que no doy con el en mis favoritos, por favor, pa el examen
+Ignacio Corbillón20:29
+https://aulasvirtuales.bue.edu.ar/login/index.php
+Cesar Morel20:29
+{var}
+Miguel Caldiroli20:29
+https://aulasvirtuales.bue.edu.ar/login/index.php
+Pato20:29
+gracias
+team
+Camila Maita20:30
+genial
+Nicko Chamorro20:30
+si son así estamos bien
+Miguel Caldiroli20:30
+bien bien
+Miguel Caldiroli20:31
+buenisimo
+Martin Andres20:31
+gracias
+Feliciano Vitullo20:31
+excelente!
+Martin Andres20:31
+gracias
+Eliana Murialdo20:31
+gracias!
+Nicko Chamorro20:31
+buenisimo
+Lean Medina20:31
+Genio, gracias!
+Marcelo Adrian Rearte Becerra20:31
+dale!!! abrazooooo
+Pablo Sparhakl20:31
+graciass
+uoh-ftfo-nso

@@ -1,0 +1,156 @@
+Nicko Chamorro19:18
+si se entiende
+Eliana Murialdo19:19
+si
+Eliana Murialdo19:25
+sisi
+Miguel Caldiroli19:25
+si
+Eliana Murialdo19:31
+si
+Mateo Salas19:31
+sii
+Eliana Murialdo19:32
+perfecto
+Marcelo Adrian Rearte Becerra19:32
+si
+Marcelo Adrian Rearte Becerra19:33
+post
+Nicko Chamorro19:33
+post
+Miguel Caldiroli19:33
+post
+Nicko Chamorro19:35
+patch
+Marcelo Adrian Rearte Becerra19:35
+patch
+Walter Falcone19:35
+put
+Marcelo Adrian Rearte Becerra19:35
+put
+"/" id_blog
+Marcelo Adrian Rearte Becerra19:37
+si
+Eliana Murialdo19:37
+se entiende
+Nicko Chamorro19:37
+sisi
+Miguel Caldiroli19:37
+sisi
+Eliana Murialdo19:41
+sisi
+Miguel Caldiroli19:44
+es mejor que crearlo linea por linea manualmente...
+Nicko Chamorro19:45
+con un script decis
+Eliana Murialdo19:46
+255
+me parece q el maximo es 255 en workbench
+Miguel Caldiroli19:47
+eso decia
+Marcelo Adrian Rearte Becerra19:47
+auto increment el id??
+Gabriel Munoz19:48
+CREATE TABLE `socialmedia`.`blogs` (
+  `id` INT NOT NULL,
+  `title` VARCHAR(150) NOT NULL,
+  `content` VARCHAR(255) NOT NULL,
+  PRIMARY KEY (`id`));
+Marcelo Adrian Rearte Becerra19:51
+update_at
+eso se puede manejar desde el config, por si no queres usarlo??
+Nicko Chamorro19:52
+eso en cada tabla?
+Marcelo Adrian Rearte Becerra20:03
+no hace falta poner async en ningun lado?  Yo pensaba que solo el await se usaba si hay un async antes
+
+Marcelo Adrian Rearte Becerra20:05
+gracias!
+Miguel Caldiroli20:05
+bien bien
+RA R20:06
+bien
+Marcelo Adrian Rearte Becerra20:06
+muy bien
+Nicko Chamorro20:06
+tamos bien
+Gabriel Munoz20:08
+MVC
+
+Marcelo Adrian Rearte Becerra20:09
+si
+Miguel Caldiroli20:09
+si
+Nicko Chamorro20:09
+sisi
+Gabriel Munoz20:09
+si genio
+Camila Maita20:09
+sisi
+Facundo Orsi20:09
+jajaja si
+Facundo Orsi20:11
+../
+Nicko Chamorro20:12
+..
+
+Facundo Orsi20:17
+si
+Eliana Murialdo20:17
+se entiende
+Marcelo Adrian Rearte Becerra20:17
+si
+Nicko Chamorro20:18
+debes usar siempre un id autoincremental con sequalize?
+
+
+Eliana Murialdo20:26
+bien
+Walter Falcone20:28
+../database
+Miguel Caldiroli20:29
+me sale humo de la cabeza ja
+Walter Falcone20:29
+esperemos qu el video esté bien grabado, jaja
+Andres Ignacio Lopez20:29
+Esta notablemente acelerado
+Nicko Chamorro20:29
+me parece bien ir así para ir más con react
+
+Eliana Murialdo20:35
+genial
+thunder client
+si es parecido
+
+Marcelo Adrian Rearte Becerra20:37
+me parece que van sin guion bajo
+Eliana Murialdo20:38
+joya
+Miguel Caldiroli20:38
+re practico ahi en vsc
+
+Camila Maita20:39
+esa era mi duda
+joya
+
+bárbaroo
+Eliana Murialdo20:39
+buenisimo
+Walter Falcone20:40
+saludos !
+Eliana Murialdo20:40
+nos vemos! gracias
+Miguel Caldiroli20:40
+como diria la mole moli: quere ma'?
+Mateo Salas20:40
+nos vemos
+Eliana Murialdo20:40
+buen finde
+Adrian De Simone20:40
+Nos vemos profe, gracias!
+Miguel Caldiroli20:40
+nos vemossssss
+Nicko Chamorro20:40
+buen finde! gracias
+Camila Maita20:40
+chauu

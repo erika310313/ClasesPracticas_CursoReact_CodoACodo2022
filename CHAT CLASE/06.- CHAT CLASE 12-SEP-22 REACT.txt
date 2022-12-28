@@ -1,0 +1,285 @@
+Miguel Caldiroli19:02
+hola como va
+Tú19:02
+buenas tardes...
+Matias Diaz19:02
+buenas
+Maximiliano Fernández19:02
+Buenas tardes
+david cortez19:02
+holis
+Lean Medina19:03
+Buenassss
+Feliciano Vitullo19:03
+buenas tardes!!
+Mateo Salas19:03
+buenas
+Agustin López19:03
+Buenas
+Gabriel Correale19:04
+Buenas!
+Lean Medina19:05
+Gaby, me parece que no mandé el presentismo la clase pasada
+Hay forma de confirmar?
+Lean Medina19:08
+Buenisiiimooo
+Gabriel Correale19:08
+Por mas que se avise la falta se pasa? porque yo habia avisado que me mudaba tengo el mail gabi}
+Natalia Alcaraz19:08
+Profe, a mi me pasó la tercera clase, que no pude dar el presentismo, pero en la clase grabada, figuro
+Gabriel Correale19:09
+Oki
+Natalia Alcaraz19:09
+ok
+gracias, profe
+Miguel Caldiroli19:09
+tenes el link de presentismo para ahora?
+Gabriel Correale19:09
+Gracias gabi
+Gabriel Munoz19:09
+Formulario de Asistencia:
+https://forms.gle/HtJHsx6TsR135Jai6
+
+Link clases grabadas:
+https://www.youtube.com/playlist?list=PL9FDV61UoWvLA8ctDSA4hl74jy9kZhsUz
+
+Link drive:
+https://drive.google.com/drive/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X?usp=sharing
+
+Link aula virtual:
+https://aulasvirtuales.bue.edu.ar/login/index.php
+
+Link Discord:
+https://discord.gg/kUgCmWdbPj
+
+Link github:
+https://github.com/DevJumpProf/comision22809
+Miguel Caldiroli19:09
+gracias profe
+Julian Villanueva19:10
+este domingo vence el cuestionario de JS unidad 3!
+igual son 5 preguntas muy  basicas salio de toque
+(Y)
+Matias Diaz19:11
+ok
+María Eugenia Lisio19:12
+Si
+Miguel Caldiroli19:12
+si buenisimo
+Pato19:12
+si
+Natalia Alcaraz19:12
+pregunta, a partir de qué hora se puede dar el presentismo? porque si lo dejo para el final, me olvido
+Pato19:12
+si por favor
+Natalia Alcaraz19:12
+buenísimo
+Matias Diaz19:12
+yo por miedo a olvidarme casi que lo mando ni bien arranca la clase
+Federico Dinucci19:12
+donde puedo ver las faltas?
+Matias Diaz19:13
+En el drive
+Gabriel Munoz19:13
+Formulario de Asistencia:
+https://forms.gle/HtJHsx6TsR135Jai6
+
+Link clases grabadas:
+https://www.youtube.com/playlist?list=PL9FDV61UoWvLA8ctDSA4hl74jy9kZhsUz
+
+Link drive:
+https://drive.google.com/drive/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X?usp=sharing
+
+Link aula virtual:
+https://aulasvirtuales.bue.edu.ar/login/index.php
+
+Link Discord:
+https://discord.gg/kUgCmWdbPj
+
+Link github:
+https://github.com/DevJumpProf/comision22809
+Gabriel Munoz19:14
+https://aulasvirtuales.bue.edu.ar/mod/quiz/view.php?id=276246
+Analía F19:15
+Buenas a Todos!
+Julian Villanueva19:16
+si
+Walter Falcone19:16
+SI
+Cesar Morel19:16
+si
+Camila Maita19:16
+verdadero
+Feliciano Vitullo19:16
+si
+Julian Villanueva19:16
+AJJA
+siempre
+Tú19:18
+profe la clase se esta grabando??
+Nicko Chamorro19:19
+una coleccion de datos
+Camila Maita19:19
+sip
+María Eugenia Lisio19:19
+Si
+Jorge Cancinos19:22
+tiene una especie de instanceOf?
+Cesar Morel19:22
+podes usar type y pasarlo por un metodo validador
+Nicko Chamorro19:23
+C
+Julian Villanueva19:23
+es el contexto actual de ejecucion
+Feliciano Vitullo19:23
+contexto actual de ejecucion
+Walter Falcone19:25
+num2 en los parametros
+Feliciano Vitullo19:26
+a=>a+100
+Julian Villanueva19:27
+=> == return basicamente
+Nicko Chamorro19:28
+si
+Walter Falcone19:28
+const
+=
+Nicko Chamorro19:29
+sin corchetes
+en este caso
+Pato19:30
+a=>a+100
+Ana Alvarez19:31
+O
+Feliciano Vitullo19:31
+O
+Nicko Chamorro19:31
+O
+Feliciano Vitullo19:31
+jaja
+Rebeca Beatriz Cruz19:31
+C
+Diego Gonzalez19:31
+O
+Julian Villanueva19:31
+si
+Feliciano Vitullo19:31
+si
+Miguel Caldiroli19:31
+si lo vimos
+Julian Villanueva19:31
+oh no
+XD!
+Feliciano Vitullo19:32
+verdadero
+Walter Falcone19:32
+V
+Julian Villanueva19:32
+verdadero
+Miguel Caldiroli19:32
+true
+Diego Gonzalez19:32
+Vedadero
+Julian Villanueva19:34
+error
+Walter Falcone19:40
+false
+Ana Alvarez19:40
+falso
+Feliciano Vitullo19:40
+da false
+Pato19:40
+false
+Federico Dinucci19:40
+true
+Jose Muthuan19:40
+true
+Pato19:40
+ah
+Feliciano Vitullo19:41
+(perdon, false el general)
+Nicko Chamorro19:41
+false general
+Nicko Chamorro19:43
+todo debe ser true
+para que de true
+Nicko Chamorro19:45
+consulta de sintaxis, si no usa los parentesis igualmente js lo resuelve bien?
+Feliciano Vitullo19:45
+si
+Jorge Cancinos19:46
+como seria el xor?
+Nicko Chamorro19:49
+distinto de 1
+Pablo Sparhakl19:50
+que no es del mismo tipo
+Nicko Chamorro19:50
+con 1 = no toma el tipo, con 2 = toma en cuenta el tipo
+Nicko Chamorro19:55
+si
+Camila Maita19:57
+sisi
+Lean Medina19:57
+Perfecto
+Cesar Morel19:57
+Mas bien con == lo que hace es "transformar" el tipo y luego comparar. Esto es util saberlo por si tenes el caso: document.write( 0 == '"")
+Nicko Chamorro19:58
+la condición patovica
+si se entiende
+Camila Maita19:58
+sisi
+Camila Maita20:00
+no se ve
+ah me va mal la señal
+Jorge Cancinos20:03
+un espacio de memoria vacio
+
+Rocío Celeste Sandoval20:20
+Lo puso de ejemplo para que se vea como se debe respetar el orden y cantidad de los parametros
+Pato20:20
+tranqui ya lo arreglaste en este ejercicio
+Analía F20:21
+Gracias!
+Walter Falcone20:22
+un numero
+Martin Andres20:26
+length
+Tú20:27
+profe donde está ese archivo??
+ok genial, gracias
+Miguel Caldiroli20:28
+excelente
+Nicko Chamorro20:28
+si perfecto
+Walter Falcone20:28
+si
+Rocío Celeste Sandoval20:28
+Perfecto
+Eliana Murialdo20:28
+si
+Pato20:29
+gracias
+Diego Gonzalez20:29
+Si si
+Agustin López20:29
+Buenisimo
+Walter Falcone20:29
+Gracias, hasta el miércoles
+Martin Andres20:29
+ok
+Camila Maita20:29
+dale
+Nicko Chamorro20:29
+genial, gracias
+Feliciano Vitullo20:29
+perfecto!
+Eliana Murialdo20:29
+gracias!
+María Eugenia Lisio20:29
+gracoas
+Pato20:29
+genmial
+Miguel Caldiroli20:29
+chauuuu
+Camila Maita20:29
+hasta el miercoñes

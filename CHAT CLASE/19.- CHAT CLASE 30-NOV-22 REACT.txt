@@ -1,0 +1,451 @@
+Gabriel Munoz19:06
+https://comision22809.netlify.app/
+Miguel Caldiroli19:08
+licuadora?
+Gabriel Munoz19:08
+https://adriandesimone.github.io/CAC2022-accesos-directos/
+https://linktree-comision-22809.netlify.app/
+https://comision22809.netlify.app/
+Gabriel Munoz19:11
+https://adriandesimone.github.io/CAC2022-accesos-directos/
+https://linktree-comision-22809.netlify.app/
+https://comision22809.netlify.app/
+Camila Maita19:13
+nop
+Miguel Caldiroli19:13
+listo
+Camila Maita19:15
+sisi
+Cesar Morel19:15
+si
+Walter Falcone19:15
+si
+Miguel Caldiroli19:15
+sisi
+Pablo Sparhakl19:15
+si
+Marcelo Adrian Rearte Becerra19:15
+yo no puedo hacer el pull me da error ahora me descargo el drive
+git reset --hard
+Walter Falcone19:16
+OK
+Analía F19:16
+De 10!
+Camila Maita19:16
+bien bien
+Miguel Caldiroli19:16
+si
+Gabriel Munoz19:19
+<div class="container">
+<div id="licuadora" class="licuadora">
+    <div id="licuadora-boton" class="licuadora-boton">
+
+    </div>
+
+</div>
+
+    </div>
+Miguel Caldiroli19:20
+perfecto
+Nicko Chamorro19:21
+tamo
+Eliana Murialdo19:21
+si
+Diego Gonzalez19:21
+Si si
+Cesar Morel19:21
+si  le das formato al documento es mas facil de seguir
+Cesar Morel19:22
+si
+Walter Falcone19:23
+estamos
+Cesar Morel19:26
+ok
+Miguel Caldiroli19:26
+si
+Pablo Sparhakl19:26
+podes mostrar el link al css?
+listo gracias
+Pablo Sparhakl19:28
+si
+Miguel Caldiroli19:28
+si
+Eliana Murialdo19:28
+si
+ignacio gabriel Brasesco19:28
+sisi
+Nicko Chamorro19:28
+si
+Pablo Sparhakl19:29
+si
+Nicko Chamorro19:29
+si
+Miguel Caldiroli19:31
+bien
+Cesar Morel19:31
+bien
+Diego Gonzalez19:31
+Genial
+Marcelo Adrian Rearte Becerra19:32
+root
+Pablo Sparhakl19:32
+a todos?
+Miguel Caldiroli19:32
+document
+Nicko Chamorro19:32
+a todo el doc
+Eliana Murialdo19:32
+a todo
+Cesar Morel19:32
+a todos los elementos
+Miguel Caldiroli19:35
+sisi
+Nicko Chamorro19:36
+dandole formato de caja a todos los elementos
+Tú19:36
+le pone borde?
+Ignacio Corbillón19:36
+cambia el cálculo del tamaño, incluye el padding y el borde
+Marcelo Adrian Rearte Becerra19:38
+estas en lo correcto
+Nicko Chamorro19:38
+si
+Miguel Caldiroli19:39
+eso no es normalizar el documento?
+Camila Maita19:40
+.lucuadora
+Marcelo Adrian Rearte Becerra19:40
+.
+Nicko Chamorro19:40
+. y el nombre
+Marcelo Adrian Rearte Becerra19:41
+fixed
+Camila Maita19:41
+fixed
+Marcelo Adrian Rearte Becerra19:42
+top
+Nicko Chamorro19:42
+top
+Miguel Caldiroli19:42
+top
+Miguel Caldiroli19:44
+se  mueve?
+Marcelo Adrian Rearte Becerra19:44
+no se lo que hace pero queda centradisimo jaja
+Camila Maita19:45
+width
+Miguel Caldiroli19:45
+height
+Camila Maita19:45
+height
+Pablo Sparhakl19:46
+minimo ancho
+Miguel Caldiroli19:46
+ancho minimo
+Nicko Chamorro19:47
+estira la imagen de fondo para que utilice el espacio
+Miguel Caldiroli19:49
+si
+Camila Maita19:49
+issi
+Camila Maita19:50
+bien bien
+Miguel Caldiroli19:50
+si
+Walter Falcone19:50
+igualito
+Cesar Morel19:50
+si
+Camila Maita19:51
+sip
+Miguel Caldiroli19:53
+sisi
+Nicko Chamorro19:53
+sisi
+Marcelo Adrian Rearte Becerra19:55
+position relative?
+Nicko Chamorro19:56
+position relative/absolute
+Camila Maita19:56
+relative a licuadora, al boton le pones absolute
+ahh
+Miguel Caldiroli19:58
+muy util
+Camila Maita19:58
+sisi
+Pablo Sparhakl19:58
+si
+Nicko Chamorro19:58
+sisi
+Analía F19:58
+OK!
+Nicko Chamorro19:58
+vamos bien
+Camila Maita19:58
+se entiende bien
+Nicko Chamorro19:58
+si
+Cesar Morel19:58
+si
+Miguel Caldiroli19:58
+si a full
+Gabriel Munoz19:59
+---------
+*{
+box-sizing:border-box;
+padding: 0;
+margin: 0;
+}
+
+.licuadora{
+/*     posicionamiento */
+position:fixed;
+top: 50%;
+left:50%;
+transform: translate(-50%,-50%);
+/* estilo */
+min-width: 700px;
+height: 500px;
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+background-image: url(../img/licuadoraApagada.png);
+
+}
+
+.licuadora-activa{
+    background-image: url(../img/licuadoraEncendida.gif);
+}
+.licuadora-boton{
+    margin: 367px auto 0;
+    width: 30px;
+    height: 50px;
+/*     border: 1px solid red; */
+}
+--------------HTML-
+<div class="container">
+     <div id="licuadora" class="licuadora ">
+         <div id="licuadora-boton" class="licuadora-boton">
+
+         </div>
+      </div>
+</div>
+
+<audio id="licuadora-sonido" src="./sound/licuadora.mp3" type="audio/mpeg" loop></audio>
+<audio id="licuadora-boton-sonido" src="./sound/botonLicuadora.mp3" type="audio/mpeg"></audio>
+    
+<script src="./js/motor.js"></script>
+Walter Falcone19:59
+meta chispa
+Camila Maita19:59
+yes
+Andres Ignacio Lopez20:00
+La verdad, si me pongo a escribir el codigo, en plena clase, no me queda grabado nada de lo que dice profe :(
+Nicko Chamorro20:01
+si
+sisi
+Cesar Morel20:02
+ok
+Analía F20:02
+Yes
+Camila Maita20:03
+sisi
+Pablo Sparhakl20:03
+si
+Nicko Chamorro20:04
+document.getElementById
+Walter Falcone20:04
+document.getElementById('licuadora-sonido')
+Marcelo Adrian Rearte Becerra20:04
+querySelector?
+Nicko Chamorro20:04
+queryselector
+Camila Maita20:05
+querysalector
+Walter Falcone20:07
+perfect !
+Miguel Caldiroli20:07
+de 10
+Analía F20:07
+Sipi!
+Camila Maita20:08
+byID solo selecciona el id que pongas. Query podes capturar lo que sea
+Gabriel Munoz20:11
+let estadoLicuadora = "apagado";
+
+let sonidoLicuadora = document.querySelector("#licuadora-sonido")
+let sonidoBoton = document.querySelector("#licuadora-boton-sonido")
+
+let licuadora = document.querySelector("#licuadora")
+let boton =document.querySelector("#licuadora-boton")
+Miguel Caldiroli20:11
+bien bien
+Camila Maita20:11
+barbaroo
+Walter Falcone20:11
+bien
+Nicko Chamorro20:11
+bien
+Pablo Sparhakl20:11
+vbien
+Camila Maita20:12
+sisi
+Walter Falcone20:12
+si
+Lucia Belen Gonzalez20:13
+si
+Pablo Sparhakl20:13
+si
+Camila Maita20:13
+sip
+Miguel Caldiroli20:13
+si
+Marcelo Adrian Rearte Becerra20:14
+agregar la clase
+Miguel Caldiroli20:14
+si
+Camila Maita20:14
+licuadora,addclassList
+sisi bien
+Nicko Chamorro20:15
+bien sisi
+Camila Maita20:16
+sip
+Gabriel Munoz20:16
+const controlarLicuadora=()=>{
+    if (estadoLicuadora=="apagado"){
+        estadoLicuadora="encendido";
+        //funcion ruido
+        licuadora.classList.add("licuadora-activa")
+    }else{
+        estadoLicuadora="apagado"
+           //funcion ruido
+           licuadora.classList.remove("licuadora-activa")  
+    }
+
+
+}
+Andres Ignacio Lopez20:17
+noise
+Walter Falcone20:17
+hacerQuilombo()
+Cesar Morel20:17
+romperSiesta
+Camila Maita20:17
+sip
+Andres Ignacio Lopez20:18
+DeathToHeadphoneUsers()
+Camila Maita20:18
+ah buenisimo eso
+Pablo Sparhakl20:19
+esta bueno
+Miguel Caldiroli20:19
+esta bueno
+Gabriel Munoz20:20
+const hacerQuilombo=()=>{
+if(sonidoLicuadora.paused){
+    sonidoBoton.play()
+    sonidoLicuadora.play()
+}else{
+    sonidoBoton.play()
+    sonidoLicuadora.pause()
+}
+
+}
+Camila Maita20:20
+falta la funcion click no?
+claro si
+Camila Maita20:22
+genial
+Nicko Chamorro20:22
+muy bueno
+para hacer el clone de spotify
+Camila Maita20:23
+jajajaj visionario el nicko
+Nicko Chamorro20:24
+jajaja
+controlarLicuadora
+Walter Falcone20:25
+anda
+que lindo !
+Cesar Morel20:25
+falto el cambiar la imagen
+Marcelo Adrian Rearte Becerra20:25
+funciona barbaro
+Walter Falcone20:25
+a mi me anda perfecto
+Cesar Morel20:25
+remover la clase parece
+Nicko Chamorro20:25
+a mi me funciona bien
+Miguel Caldiroli20:25
+me falto lo ultimo del codigo
+Marcelo Adrian Rearte Becerra20:25
+a mi si
+Nicko Chamorro20:25
+se menea jaja
+Pablo Sparhakl20:26
+si anda
+Leonardo Guzmán20:27
+A mí me enciende la licuadora, pero cuando la quiero apagar, el audio no se detiene
+Nicko Chamorro20:28
+por ahi pusiste paused en lugar de pause
+Analía F20:28
+Fijate si pusiste "pause"
+Hay uno paused y un pause
+Iván Villena20:28
+pause con () porque es una funcion
+Nicko Chamorro20:30
+dibujo con css_
+?
+muy piola
+sisi
+Camila Maita20:31
+sisi
+Pato20:31
+que bieeen
+nostalgia
+Marcelo Adrian Rearte Becerra20:31
+muy bueno!
+se usa canva?
+Nicko Chamorro20:31
+muy bueno
+Camila Maita20:31
+jajaja que geniaal
+Miguel Caldiroli20:32
+profe podes pasar el  codigo de hacerQuilombo
+Gabriel Munoz20:33
+const hacerQuilombo=()=>{
+if(sonidoLicuadora.paused){
+    sonidoBoton.play()
+    sonidoLicuadora.play()
+}else{
+    sonidoBoton.play()
+    sonidoLicuadora.pause()
+    sonidoLicuadora.currentTime=0; //reinicio al seg 0 el audio
+}
+
+}
+Miguel Caldiroli20:33
+graciasss
+Camila Maita20:33
+excelente sii
+Marcelo Adrian Rearte Becerra20:33
+Si re!
+Diego Gonzalez20:33
+Buenísimo!! 👏
+Pato20:33
+vaya a celebrar la victoria argentina
+Cesar Morel20:34
+fijate el pause
+en lugar de paused
+Pablo Sparhakl20:35
+si
+Walter Falcone20:35
+Que equipo !!!
+Cesar Morel20:36
+hasta la próxima
+Camila Maita20:36
+hasta la proxima!
+Walter Falcone20:36
+Saludos !!!

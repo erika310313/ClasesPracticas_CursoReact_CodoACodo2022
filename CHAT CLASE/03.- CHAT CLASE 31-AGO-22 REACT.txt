@@ -1,0 +1,302 @@
+Martin Andres19:04
+aprendiendo
+Fabio Martín Aoad19:04
+buenas. Todo bien con el repo de github
+Miguel Caldiroli19:04
+holaaaaa
+Tú19:05
+buenas tardes...
+Miguel Caldiroli19:05
+si si
+Gabriel Correale19:05
+Buenas
+Natalia Alcaraz19:05
+Buenas tardes!
+Lean Medina19:05
+Buenas :
+Gabriel Correale19:05
+Si, estoy medio atrasado estuve de mudanza, hoy me dieron el servicio de internet
+Lean Medina19:05
+:)
+Braian Arguello19:06
+Buenas, consulta los grupos ya quedan para el resto de la cursada?
+Gabriel Correale19:06
+Joya no hay drama
+Miguel Caldiroli19:07
+en mi grupo de 10, si seguimos igual joya
+Adrian De Simone19:07
+Buenas tardes
+Lean Medina19:07
+Me mandarían el grupo de whatsapp?
+Gabriel Munoz19:08
+https://forms.gle/F4KPDBT6sMVaVRwDA PRESENTISMO
+https://www.youtube.com/playlist?list=PL9FDV61UoWvLA8ctDSA4hl74jy9kZhsUz YOUTUBE
+https://drive.google.com/drive/u/1/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X DRIVE
+Jose Muthuan19:08
+https://chat.whatsapp.com/KGacpK1Za0lJHc0F05VSaj   WHATSAPP
+Gabriel Munoz19:09
+https://aulasvirtuales.bue.edu.ar/ AULA VIRTUAL
+Lean Medina19:09
+Graciasss
+Pato19:09
+consulto
+hay examenes cada final de mes?
+es que no me figuran en el calendario
+ok, es por el curso pasado habia uno ada final de semana y asi...
+ok
+gracias
+Gabriel Munoz19:11
+https://www.marketinhouse.es/mobile-first/
+Miguel Caldiroli19:12
+si se ve
+Lujan Oliva19:13
+puede agrandar la pantalla ?
+Miguel Caldiroli19:14
+de 10
+Cristina Verdún19:15
+yo!
+Ignacio Corbillón19:15
+Sí, yo estoy con gripe y no entiendo nada
+Natalia Alcaraz19:15
+Yo
+antonella cavallo19:15
+yo!
+Marcelo Adrian Rearte Becerra19:15
+pasas la url del repo, por favorr?
+Cristina Verdún19:15
+quedo para el finde
+Marcelo Adrian Rearte Becerra19:16
+gracias!
+Gabriel Munoz19:16
+https://github.com/DevJumpProf/comision22809
+Lean Medina19:16
+Acabo de bajar todo lo que subiste recién solo con git, y estoy :D
+la emoción
+Cristina Verdún19:17
+Que salude!
+Maximiliano Fernández19:17
+pesos??
+Braian Arguello19:17
+mejor antes que las figus xD
+Natalia Alcaraz19:17
+ay
+Lean Medina19:18
+El verdadero "a la gorra"
+Camila Maita19:20
+sii bien
+Cesar Morel19:24
+Boostrap hace como una implementacion propia de (y compatible con) flexbox y grid no?
+Nicko Chamorro19:25
+todo con !important
+Braian Arguello19:26
+y el responsive de bootstrap va a responder mientras esten las clases del mismo en los elementos
+Camila Maita19:26
+uff
+Natalia Alcaraz19:26
+qué nombre debían tener las carpetas?
+Cesar Morel19:27
+"css" una e "img" la otra
+Natalia Alcaraz19:27
+gracias!
+Lean Medina19:29
+te la abre vacía, perdón
+Cesar Morel19:31
+Hay una compañera que no esta pudiendo entrar
+Cesar Morel19:33
+Gabriela decia
+Guido Calciano19:35
+aca todo ok
+Miguel Caldiroli19:35
+bien por ahora...
+Cesar Morel19:35
+por ahora todo bien
+Mateo Salas19:35
+todo bien
+Adrian De Simone19:37
+Margen
+Camila Maita19:37
+margen de las cAJA
+Pablo Sparhakl19:37
+; falta
+Camila Maita19:37
+;
+Guido Calciano19:37
+rigHt
+Walter Falcone19:37
+ht
+Pablo Sparhakl19:37
+right
+david cortez19:39
+me parece que falta vincular el css
+Miguel Caldiroli19:39
+es verdad david
+link
+Miguel Caldiroli19:43
+si si
+Nicko Chamorro19:43
+sisi
+Camila Maita19:43
+ok siisi
+Miguel Caldiroli19:44
+el padding es interno
+Lean Medina19:45
+Mandarías el codigo del css?
+Cesar Morel19:46
+Me acuerdo los lios con explorer y el padding
+Nicko Chamorro19:47
+y el html?
+no esta uno adentro del otro
+Jorge Alwin Maiden Suarez19:47
+puede ser la estructur del html
+Gabriel Munoz19:48
+nav ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+
+section article{
+    width: 40% ;  
+    margin-right:5%;
+    margin-left:5%;
+    float: left;
+}
+
+section {
+    overflow: hidden;
+}
+
+nav{
+    text-align: center;
+}
+Braian Arguello19:50
+claro el img estaba abierto
+Tú19:50
+el img no lo cerró
+Miguel Caldiroli19:50
+100 lucas para arriba
+Nicko Chamorro19:50
+salados los lavarropas
+Braian Arguello19:51
+profe la decoracion por defecto de  li se la saco en algun momento?
+Marcelo Adrian Rearte Becerra19:53
+transform
+Braian Arguello19:53
+transform
+Marcelo Adrian Rearte Becerra19:53
+upper-case
+Miguel Caldiroli19:53
+upper
+Braian Arguello19:53
+uppercase
+Camila Maita19:53
+upper
+Braian Arguello19:54
+text-decoration : none
+Camila Maita19:54
+none
+Camila Maita19:55
+los widht se usan % siempre?
+Braian Arguello19:56
+puede ser en px, vh y un par mas
+Miguel Caldiroli19:56
+normalizar
+Kevin Alejandro Mediña19:56
+border-box
+Camila Maita19:56
+claro pero usar conviene el %
+?
+Braian Arguello19:56
+es que depende,
+Lean Medina19:57
+conviene en el sentido de que te toma el % del dispositivo que estes
+el viewport
+pero depende
+Cesar Morel19:57
+Tambien hay proyectos como https://necolas.github.io/normalize.css/
+Braian Arguello19:57
+segun la ocasion te sirve mas uno que el otro,
+Camila Maita19:58
+aah oki
+Nicko Chamorro19:58
+el normalize entiendo que es para dar mismo formato en la mayoria de navegadores
+Miguel Caldiroli20:00
+sisi
+Guido Calciano20:00
+sisi
+Camila Maita20:00
+yes
+Julian Villanueva20:00
+Profe me retiro a Ingles, luego continuo la clase por Youtube. Buen finde!
+Lean Medina20:00
+excelente
+Gabriel Munoz20:02
+............................
+Gabriel Munoz20:04
+nav ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+nav ul li a{
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+}
+
+section{
+    width: 80%;
+    margin: 10px auto
+}
+section article{
+    width: 100% ;  
+
+}
+
+section article img {
+    width: 100%;
+}
+Nicko Chamorro20:06
+https://lenguajecss.com/css/selectores/selectores-avanzados/
+ahi explican los selectores inclusive ese
+Cesar Morel20:07
+Esta muy buena esa tabla de resumen
+Andres Ignacio Lopez20:07
+width: 40%;
+width: 40vw
+Camila Maita20:08
+aahh calro
+Miguel Caldiroli20:12
+section article 100%
+Camila Maita20:16
+perdono el hidden para que era?
+no tengo mic
+Nicko Chamorro20:16
+evita el desbordamiento
+Camila Maita20:17
+aahh okok
+Braian Arguello20:17
+es como decirle que quede dentro del margen , creo
+Miguel Caldiroli20:22
+piola, para ir metiendo mano
+Miguel Caldiroli20:24
+no estamos viendo nada
+ahora si
+first
+Miguel Caldiroli20:27
+muy  bueno el combo de github y media query
+Camila Maita20:27
+buenisimoo
+Miguel Caldiroli20:28
+muy buena clase gaby
+Guido Calciano20:28
+muy biennn
+Nicko Chamorro20:28
+perfecto
+Agustin López20:28
+Joya
+Cristina Verdún20:28
+Gracias!!!!
+Pablo Sparhakl20:28
+tamos
+Camila Maita20:28
+genial. gracias!

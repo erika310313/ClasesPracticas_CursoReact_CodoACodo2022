@@ -1,0 +1,311 @@
+Miguel Caldiroli19:07
+dale gasssss
+RA R19:07
+que comisión es ésta?
+Miguel Caldiroli19:07
+la mejor
+Tú19:07
+22809
+Eliana Murialdo19:07
+22809
+RA R19:07
+gracias
+Kevin Alejandro Mediña19:07
+en la 809 está el aguante (?)
+Nicko Chamorro19:08
+jajaj vamo que le ganamos xd
+Julian Villanueva19:08
+la traicion
+Nicko Chamorro19:08
+poliamor
+jajaja
+Feliciano Vitullo19:08
+doble vida
+Pato19:08
+me duele me quema y me lastima este poliamor Xd
+Nicko Chamorro19:10
+jajajja
+Feliciano Vitullo19:10
+entorno react (?)
+Camila Maita19:12
+sii
+Lean Medina19:14
+Espectacularrrr, gracias
+Analía F19:19
+Es como el Select Case o el Case, no?
+Miguel Caldiroli19:21
+3 = verde
+Camila Maita19:24
+aaahh
+Cesar Morel19:24
+funcionar va a funcionar, solo que no como querias, van a ir todas por default
+Nicko Chamorro19:24
+sin el break ejecuta todos los cases siguientes hasta encontrar un break y salir o terminar todos
+Camila Maita19:25
+la coincidencia es con ==?
+Camila Maita19:29
+sisi
+Miguel Caldiroli19:29
+sisi
+RA R19:29
+si
+Feliciano Vitullo19:29
+si
+Mateo Salas19:29
+si
+Lean Medina19:30
+JAJJAA
+Camila Maita19:30
+uhh
+Agustin López19:31
+uff jajaja
+Julian Villanueva19:31
+F
+Pato19:31
+f
+Nicko Chamorro19:31
+no me la contes jajaj
+Feliciano Vitullo19:31
+jajajja nada puede malir sal
+Lean Medina19:36
+la comilla del final, al lado del libro
+Dale, dale
+Lean Medina19:38
+House of dragon
+Analía F19:38
+Game of Thrones
+Nicko Chamorro19:38
+Breaking Bad
+Ivan Pasciucco19:38
+mr robot
+Pato19:38
+Pokemon
+Rebeca Beatriz Cruz19:38
+Stranger things
+María Eugenia Lisio19:38
+better Call Saul
+Pato19:38
+Dragon Ball pues jajajaa
+Nicko Chamorro19:39
+los caballeros
+los supercampeones
+jjaaja
+Feliciano Vitullo19:39
+El efecto mariposa
+sisi
+Nicko Chamorro19:39
+si
+Ignacio Corbillón19:39
+Ashton Kutcher
+Julian Villanueva19:40
+Batman xD
+Martin Andres19:40
+12 monos
+Analía F19:40
+El nombre del Viento
+Feliciano Vitullo19:41
+te recomendamos escribir bien
+jajaja
+Analía F19:41
+Que respetes las consignas... jajajaja
+Camila Maita19:42
+sisi perfectoo
+RA R19:42
+👍🙌
+Cesar Morel19:43
+Ejemplo de aprovechar el no poner break para sintetizar los OR:
+
+let especie = 'Canis familiaris'
+
+switch (especie) {
+    case 'Canis aureus':
+    case 'Canis familiaris':
+    case 'Canis latrans':
+    case 'Canis lupaster':
+    case 'Canis lupus':
+    case 'Canis simensis':
+        console.log('Familia: Canis')
+        break
+    default:
+        console.log('Otra familia')
+        break
+}
+Feliciano Vitullo19:45
+sisi
+Camila Maita19:45
+sip
+Diego Gonzalez19:45
+si si
+Miguel Caldiroli19:48
+de una
+Lean Medina19:48
+petacular
+Rocío Celeste Sandoval19:48
+ok
+Martin Andres19:52
+si
+Miguel Caldiroli19:53
+sisi
+Pato19:53
+xD
+si
+Ivan Pasciucco19:55
+al menos se ejecuta una vez
+Ivan Pasciucco19:56
+si ponemos un 10
+Marcelo Adrian Rearte Becerra19:58
+bucle infinito?
+Camila Maita20:01
+perfectoo
+Pablo Sparhakl20:02
+si
+Diego Gonzalez20:02
+si perfecto
+Tú20:03
+profe el archivo readme2 no esta en el drive...
+Analía F20:04
+Lo encontré en el repositorio...
+Diego Gonzalez20:04
+si drive si
+Ivan Pasciucco20:04
+en ambos lo veo
+Gabriel Munoz20:05
+Link drive:
+https://drive.google.com/drive/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X?usp=sharing
+Tú20:05
+si ya me actualizó
+Martin Andres20:08
+con el case
+Marcelo Adrian Rearte Becerra20:09
+un piedra papel o tijera
+Pablo Sparhakl20:10
+si
+Nicko Chamorro20:11
+y si usas Math.round te queda el entero
+Marcelo Adrian Rearte Becerra20:11
+si
+Feliciano Vitullo20:12
+7
+Marcelo Adrian Rearte Becerra20:12
+4
+Ivan Pasciucco20:12
+7
+Camila Maita20:12
+8
+Nicko Chamorro20:12
+8
+Rocío Celeste Sandoval20:12
+3
+Martin Andres20:12
+8
+Kevin Alejandro Mediña20:12
+2
+Ignacio Corbillón20:12
+5
+Diego Gonzalez20:12
+7
+Jose Muthuan20:12
+4
+Tú20:12
+4
+Diego Gonzalez20:12
+jajaa
+Feliciano Vitullo20:12
+essssssaaaaaa
+Cesar Morel20:13
+3
+Kevin Alejandro Mediña20:13
+eee
+Ivan Pasciucco20:13
+ez
+Tú20:13
+si
+Feliciano Vitullo20:13
+sisi
+Camila Maita20:13
+sisi buenisimo
+Marcelo Adrian Rearte Becerra20:13
+si quisieras que sea con letras?
+Camila Maita20:13
+ay nooo
+Rocío Celeste Sandoval20:13
+ahora los 6 numeros para el quini XD
+Guido Calciano20:13
+SI
+María Eugenia Lisio20:13
+Si
+Nicko Chamorro20:13
+parece dj
+Matias Diaz20:13
+w40
+Camila Maita20:13
+D:
+Analía F20:15
+Del 1 al 45 recibe el Quini.
+00
+Eliana Murialdo20:15
+del 00 al 45
+Analía F20:15
+Del 00 al 45
+Nicko Chamorro20:15
+anotando los numeros
+Marcelo Adrian Rearte Becerra20:15
+Math.floor()
+Nicko Chamorro20:16
+cambiar round por floor para el 0
+sino no sale 0
+Marcelo Adrian Rearte Becerra20:18
+Math.floor(math.random()*46)
+Analía F20:18
+Vamos haciendo la colecta para el cartón...
+70 + 35 +25 cada tipo de jugada posible...
+Jajajaja
+Marcelo Adrian Rearte Becerra20:19
+y el math cambialo por Math jaja
+Pablo Sparhakl20:19
+un solo argumento va
+Martin Andres20:20
+while
+Marcelo Adrian Rearte Becerra20:20
+un for
+Feliciano Vitullo20:20
+un while
+o un for
+Ignacio Corbillón20:20
+no podés meterlos dentro de los ${}?
+Camila Maita20:20
+tambien se podria hacer una lista con num1 al num6 y ubicarla en el argumento de la función quini6 ?
+Cesar Morel20:20
+el problema es que se podrian repetir los numeros
+Pablo Sparhakl20:21
+14
+Camila Maita20:21
+dale
+Nicko Chamorro20:21
+tal cual cesar, se podria hacer una funcion con un array
+Agustin López20:21
+ok
+Nicko Chamorro20:21
+ok
+Martin Andres20:22
+perfecto
+Nicko Chamorro20:22
+sisi
+Camila Maita20:22
+okis
+Feliciano Vitullo20:22
+sisi
+Eliana Murialdo20:22
+si
+Agustin López20:22
+Buenisimo, saludos
+Marcelo Adrian Rearte Becerra20:22
+si perfecto! buena semana!
+Mateo Salas20:22
+dale nos vemos
+Eliana Murialdo20:22
+gracias! hasta el lunes!
+Camila Maita20:22
+gracias!!
+Martin Andres20:22
+No vemos
