@@ -34,5 +34,40 @@ switch (recomendaciones) {    // RESOLVER USANDO LOS METODOS DE STRING (ESTUDIAR
       break;
   } */
 
-  //Métodos de String
+  //Métodos de String   (ESTUDIAR)
 
+  /* Sentencia while                */
+
+/*   let numero = Number(prompt ("elije un número"))
+
+  while(numero < 10){
+    numero++
+    document.write(numero)
+  } */
+
+  /* Sentencia do while                */
+
+/*   let numero = Number(prompt ("elije un número"))
+  
+  do{
+    document.write(numero + "<br>");
+    numero++;
+    } while(numero <= 6) */
+
+
+    /* BREAK       */
+/* let numero = Number(prompt ("elije un número"))
+
+while(numero < 1000){
+    numero++;
+    document.write(numero + "<br>")
+
+//    if (numero == 10) {
+//        break;
+//    }
+    if (numero == 900) {
+      break;
+  }
+} */
+
+/* clase 8 min 32:50  */
