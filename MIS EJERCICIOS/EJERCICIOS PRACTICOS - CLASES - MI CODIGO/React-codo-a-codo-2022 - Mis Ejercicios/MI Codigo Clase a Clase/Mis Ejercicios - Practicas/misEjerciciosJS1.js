@@ -7,65 +7,122 @@
 // reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = "Erika";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 13;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+const nuevaResta = 10 - 5 === 5;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = null * 4 === 40 ;
+const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 1;
 
 
 
 function devolverString(str) {
-  // "Return" la string provista: str
-  // Tu código:
+  document.write(str)
 
 }
+devolverString("Hola" + "</br>")
 
+//Función flecha
 
+const devolverString2 = str =>
+document.write(str)
+devolverString2("Hola con función flecha" + "</br>")
+
+/* --------------------------------------------------------------------------------------------- */
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-
+  document.write(x + y + "</br>")
 }
+suma(10, 20)
+
+//Función flecha
+
+const suma2 = (x,y) => {
+  document.write("suma con función flecha: " + (x + y) + "</br>")
+}
+suma2(10, 20)
+
+/* --------------------------------------------------------------------------------------------- */
+
 
 function resta(x, y) {
   // Resta "x" de "y" y devuelve el valor
   // Tu código:
-
+  document.write(x - y + "</br>")
 }
+resta(100, 80)
+
+//Función flecha
+
+const resta2 = (x,y) => {
+  document.write("resta con función flecha: " + (x - y) + "</br>")
+}
+resta2(100, 80)
+
+/* --------------------------------------------------------------------------------------------- */
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-
+  document.write(x * y + "</br>")
 }
+multiplica(10, 50)
+
+//Función flecha
+
+const multiplica2 = (x,y) => {
+  document.write("multiplicación con función flecha: " + (x * y) + "</br>")
+}
+multiplica2(10, 50)
+
+/* --------------------------------------------------------------------------------------------- */
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-
+  document.write(x / y + "</br>")
 }
+divide(100, 50)
+
+//Función flecha
+
+const divide2 = (x,y) => {
+  document.write("división con función flecha: " + (x / y) + "</br>")
+}
+divide2(100, 50)
+
+
+/* --------------------------------------------------------------------------------------------- */
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:utilizar if y else
-
-
+  document.write((x === y) + "</br>")
 }
+sonIguales(10,20)
+
+//Función flecha
+
+const sonIguales2 = (x,y) => {
+  document.write("son iguales, con función flecha: " + (x === y) + "</br>")
+}
+sonIguales2(10, 10)
+
+/* --------------------------------------------------------------------------------------------- */
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
@@ -74,12 +131,24 @@ function tienenMismaLongitud(str1, str2) {
 
 }
 
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
+
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
 
 }
+
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
 
 function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
@@ -88,11 +157,23 @@ function mayorQueCincuenta(num) {
 
 }
 
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
+
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
 
 }
+
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
 
 function esPar(num) {
   // Devuelve "true" si "num" es par
@@ -102,12 +183,24 @@ function esPar(num) {
   
 }
 
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
+
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
 
 }
+
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
 
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
@@ -116,17 +209,35 @@ function elevarAlCuadrado(num) {
 
 }
 
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
+
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
 
 }
 
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
+
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
 
 }
+
+//Función flecha
+
+
+
+/* --------------------------------------------------------------------------------------------- */
 
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo

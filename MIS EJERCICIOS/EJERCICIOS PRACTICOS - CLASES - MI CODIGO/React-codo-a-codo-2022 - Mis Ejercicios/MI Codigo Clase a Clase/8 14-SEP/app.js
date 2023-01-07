@@ -70,4 +70,22 @@ while(numero < 1000){
   }
 } */
 
-/* clase 8 min 32:50  */
+/* Método Aleatorio - Math.random()   */
+
+/* document.write(Math.random()) */
+
+//  Ejercicio DADO
+/* 
+let dado = Math.round(Math.random()*10)
+
+document.write(dado) */
+let nombre = prompt("Decime tu nombre")
+
+function quini6(num1, num2, num3, num4,num5, num6){
+  
+  document.write(`${nombre} tus números para la jugada de hoy son los siguientes, ${num1} - ${num2} - ${num3} - ${num4} - ${num5} - ${num6} `)
+
+}
+
+quini6(Math.floor(Math.random()*46))
+
